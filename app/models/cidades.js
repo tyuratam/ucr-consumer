@@ -1,6 +1,6 @@
 export default (sequelize, DataTypes) => {
   const cities = sequelize.define('cities', {
-    city_id: { 
+    city_id: {
       type: DataTypes.INTEGER,
       autoIncrement: true,
       primaryKey: true,
