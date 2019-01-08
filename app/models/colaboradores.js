@@ -1,14 +1,20 @@
 export default (sequelize, DataTypes) => {
   const employees = sequelize.define('colaboradores', {
-    colaborador_id: {
+    id: {
       type: DataTypes.INTEGER,
       autoIncrement: true,
       primaryKey: true,
     },
-    colaborador_codigo: DataTypes.INTEGER,
+    codigo: DataTypes.INTEGER,
     nome: DataTypes.STRING,
-    polo_id: DataTypes.INTEGER,
+    callcenter: DataTypes.BOOLEAN,
   });
+
+  employees.associate = (models) => {
+    models.colaboradores.belongsTo(models.polos, {
+      foreignKey: 'polo_id',
+    });
+  };
 
   return employees;
 };

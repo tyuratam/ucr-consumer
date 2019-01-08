@@ -1,6 +1,6 @@
 export default (sequelize, DataTypes) => {
   const status = sequelize.define('status', {
-    status_id: {
+    id: {
       type: DataTypes.INTEGER,
       autoIncrement: true,
       primaryKey: true,

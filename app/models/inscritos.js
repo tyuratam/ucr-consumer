@@ -1,5 +1,5 @@
 export default (sequelize, DataTypes) => {
-  const preEnrolled = sequelize.define('pre_inscritos', {
+  const enrolled = sequelize.define('inscritos', {
     codigo_acompanhamento: DataTypes.INTEGER,
     concurso: DataTypes.STRING,
     candidato: DataTypes.INTEGER,
@@ -25,12 +25,21 @@ export default (sequelize, DataTypes) => {
     data_retorno: DataTypes.DATE,
     horario_retorno: DataTypes.DATE,
     origem: DataTypes.STRING,
-
-    // Relations
-    pessoa_id: DataTypes.INTEGER,
-    curso_id: DataTypes.STRING,
-    polo_id: DataTypes.STRING,
   });
 
-  return preEnrolled;
+  enrolled.associate = (models) => {
+    models.pre_inscritos.belongsTo(models.pessoas, {
+      foreignKey: 'pessoa_id',
+    });
+
+    models.pre_inscritos.belongsTo(models.cursos, {
+      foreignKey: 'curso_id',
+    });
+
+    models.pre_inscritos.belongsTo(models.polos, {
+      foreignKey: 'polo_id',
+    });
+  };
+
+  return enrolled;
 };

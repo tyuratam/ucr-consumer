@@ -1,12 +1,12 @@
 export default (sequelize, DataTypes) => {
   const courses = sequelize.define('cursos', {
-    curso_id: {
+    id: {
       type: DataTypes.INTEGER,
       autoIncrement: true,
       primaryKey: true,
     },
-    curso: DataTypes.STRING,
-    curso_nome: DataTypes.STRING,
+    codigo: DataTypes.STRING,
+    nome: DataTypes.STRING,
   });
 
   return courses;

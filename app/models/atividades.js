@@ -1,20 +1,21 @@
 export default (sequelize, DataTypes) => {
   const activities = sequelize.define('atividades', {
-    aluno_id: {
+    id: {
       type: DataTypes.INTEGER,
-      autoIncrement: false,
+      autoIncrement: true,
       primaryKey: true,
     },
-    ra: {
-      type: DataTypes.INTEGER,
-      autoIncrement: false,
-      primaryKey: true,
-    },
-    ava: DataTypes.STRING,
-    aula: DataTypes.STRING,
-    atividade: DataTypes.STRING,
-    forum: DataTypes.STRING,
+    ava: DataTypes.DATEONLY,
+    aula: DataTypes.DATEONLY,
+    atividade: DataTypes.DATEONLY,
+    forum: DataTypes.DATEONLY,
   });
+
+  activities.associate = (models) => {
+    models.atividades.belongsTo(models.alunos, {
+      foreignKey: 'aluno_id',
+    });
+  };
 
   return activities;
 };

@@ -1,9 +1,14 @@
 export default (sequelize, DataTypes) => {
-  const pessoas = sequelize.define('pessoas', {
+  const people = sequelize.define('pessoas', {
+    id: {
+      type: DataTypes.INTEGER,
+      autoIncrement: true,
+      primaryKey: true,
+    },
     cpf: {
       type: DataTypes.INTEGER,
-      autoIncrement: false,
-      primaryKey: true,
+      unique: true,
+      allowNull: false,
     },
     nome: DataTypes.STRING,
     email: DataTypes.STRING,
@@ -19,5 +24,12 @@ export default (sequelize, DataTypes) => {
     complemento: DataTypes.STRING,
     numero: DataTypes.STRING,
   });
-  return pessoas;
+
+  people.associate = (models) => {
+    models.enderecos.hasOne(models.enderecos, {
+      foreignKey: 'endereco_id',
+    });
+  };
+
+  return people;
 };

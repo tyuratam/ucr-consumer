@@ -1,9 +1,27 @@
 export default (sequelize, DataTypes) => {
   const students = sequelize.define('alunos', {
-    ra: DataTypes.INTEGER,
-    pessoa_id: DataTypes.INTEGER,
-    curso_id: DataTypes.STRING,
+    id: {
+      type: DataTypes.INTEGER,
+      autoIncrement: true,
+      primaryKey: true,
+    },
+    ra: {
+      type: DataTypes.INTEGER,
+      unique: true,
+      allowNull: false,
+    },
+    ingresso: DataTypes.DATEONLY,
   });
+
+  students.associate = (models) => {
+    models.alunos.belongsTo(models.pessoas, {
+      foreignKey: 'pessoa_id',
+    });
+
+    models.alunos.belongsTo(models.cursos, {
+      foreignKey: 'curso_id',
+    });
+  };
 
   return students;
 };

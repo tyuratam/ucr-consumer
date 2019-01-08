@@ -1,11 +1,11 @@
 export default (sequelize, DataTypes) => {
   const contests = sequelize.define('concursos', {
-    concurso_id: {
+    id: {
       type: DataTypes.INTEGER,
       autoIncrement: true,
       primaryKey: true,
     },
-    concurso: DataTypes.STRING,
+    codigo: DataTypes.STRING,
     modalidade: DataTypes.STRING,
     semestre: DataTypes.INTEGER,
     ano: DataTypes.DATEONLY,

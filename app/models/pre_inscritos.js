@@ -16,12 +16,21 @@ export default (sequelize, DataTypes) => {
     ultimo_atendimento_colaborador: DataTypes.STRING,
     ultimo_local_atendimento: DataTypes.STRING,
     ultima_observacao: DataTypes.STRING,
-
-    // Relations
-    pessoa_id: DataTypes.INTEGER,
-    curso_id: DataTypes.STRING,
-    polo_id: DataTypes.STRING,
   });
+
+  preEnrolled.associate = (models) => {
+    models.pre_inscritos.belongsTo(models.pessoas, {
+      foreignKey: 'pessoa_id',
+    });
+
+    models.pre_inscritos.belongsTo(models.cursos, {
+      foreignKey: 'curso_id',
+    });
+
+    models.pre_inscritos.belongsTo(models.polos, {
+      foreignKey: 'polo_id',
+    });
+  };
 
   return preEnrolled;
 };
