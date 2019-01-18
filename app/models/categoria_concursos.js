@@ -5,7 +5,7 @@ export default (sequelize, DataTypes) => {
       autoIncrement: true,
       primaryKey: true,
     },
-    tipo: DataTypes.STRING,
+    nome: DataTypes.STRING,
   });
 
   return contestCategories;

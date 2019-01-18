@@ -5,7 +5,8 @@ export default (sequelize, DataTypes) => {
       autoIncrement: true,
       primaryKey: true,
     },
-    status: DataTypes.STRING,
+    nome: DataTypes.STRING,
+    tipo: DataTypes.STRING,
   });
 
   return status;

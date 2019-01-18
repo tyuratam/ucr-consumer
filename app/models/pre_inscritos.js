@@ -1,20 +1,14 @@
 export default (sequelize, DataTypes) => {
   const preEnrolled = sequelize.define('pre_inscritos', {
+    id: {
+      type: DataTypes.INTEGER,
+      autoIncrement: true,
+      primaryKey: true,
+    },
     codigo_acompanhamento: DataTypes.INTEGER,
-    candidato: DataTypes.INTEGER,
-    origem: DataTypes.STRING,
     data_pre_inscricao: DataTypes.DATE,
-    status: DataTypes.STRING,
-    desistiu: DataTypes.STRING,
-    cancelado: DataTypes.STRING,
     total_contatos: DataTypes.INTEGER,
-    primeiro_atendimento_status: DataTypes.STRING,
-    primeiro_atendimento_colaborador: DataTypes.STRING,
-    primeiro_local_atendimento: DataTypes.STRING,
     primeira_observacao: DataTypes.STRING,
-    ultimo_atendimento_status: DataTypes.STRING,
-    ultimo_atendimento_colaborador: DataTypes.STRING,
-    ultimo_local_atendimento: DataTypes.STRING,
     ultima_observacao: DataTypes.STRING,
   });
 
@@ -29,6 +23,18 @@ export default (sequelize, DataTypes) => {
 
     models.pre_inscritos.belongsTo(models.polos, {
       foreignKey: 'polo_id',
+    });
+
+    models.pre_inscritos.hasMany(models.status, {
+      foreignKey: 'status_id',
+    });
+
+    models.pre_inscritos.hasMany(models.colaborador, {
+      foreignKey: 'primeiro_atendimento_colaborador_id',
+    });
+
+    models.pre_inscritos.hasMany(models.colaborador, {
+      foreignKey: 'ultimo_atendimento_colaborador_id',
     });
   };
 
