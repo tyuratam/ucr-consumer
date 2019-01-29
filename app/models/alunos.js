@@ -18,7 +18,7 @@ export default (sequelize, DataTypes) => {
       foreignKey: 'pessoa_id',
     });
 
-    models.alunos.belongsTo(models.cursos, {
+    models.alunos.hasOne(models.cursos, {
       foreignKey: 'curso_id',
     });
   };

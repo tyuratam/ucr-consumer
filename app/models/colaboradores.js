@@ -7,12 +7,16 @@ export default (sequelize, DataTypes) => {
     },
     codigo: DataTypes.INTEGER,
     nome: DataTypes.STRING,
-    callcenter: DataTypes.BOOLEAN,
   });
 
   employees.associate = (models) => {
     models.colaboradores.belongsTo(models.polos, {
       foreignKey: 'polo_id',
+    });
+
+    // Vínculo
+    models.colaboradores.hasOne(models.termos, {
+      foreignKey: 'termo_id',
     });
   };
 

@@ -10,8 +10,12 @@ export default (sequelize, DataTypes) => {
   });
 
   units.associate = (models) => {
-    models.enderecos.hasOne(models.enderecos, {
+    models.polos.hasOne(models.enderecos, {
       foreignKey: 'endereco_id',
+    });
+
+    models.polos.hasMany(models.pessoas, {
+      foreignKey: 'pessoa_id',
     });
   };
 

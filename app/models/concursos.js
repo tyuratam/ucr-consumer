@@ -6,10 +6,16 @@ export default (sequelize, DataTypes) => {
       primaryKey: true,
     },
     codigo: DataTypes.STRING,
-    modalidade: DataTypes.STRING,
     semestre: DataTypes.INTEGER,
     ano: DataTypes.DATEONLY,
   });
+
+  contests.associate = (models) => {
+    // Modalidade
+    models.concursos.hasOne(models.termos, {
+      foreignKey: 'termo_id',
+    });
+  };
 
   return contests;
 };

@@ -10,8 +10,8 @@ export default (sequelize, DataTypes) => {
     complemento: DataTypes.STRING,
     bairro: DataTypes.STRING,
     cidade: DataTypes.STRING,
-    uf: DataTypes.STRING,
-    cep: DataTypes.INTEGER,
+    uf: DataTypes.STRING(2),
+    cep: DataTypes.INTEGER(8),
     lat: DataTypes.FLOAT,
     lng: DataTypes.FLOAT,
   });

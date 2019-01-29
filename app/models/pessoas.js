@@ -16,18 +16,15 @@ export default (sequelize, DataTypes) => {
     telefone: DataTypes.INTEGER,
     celular_ddd: DataTypes.INTEGER(2),
     celular: DataTypes.INTEGER,
-    cep: DataTypes.INTEGER(8),
-    cidade: DataTypes.STRING,
-    uf: DataTypes.STRING(2),
-    bairro: DataTypes.STRING,
-    logradouro: DataTypes.STRING,
-    complemento: DataTypes.STRING,
-    numero: DataTypes.STRING,
   });
 
   people.associate = (models) => {
-    models.enderecos.hasOne(models.enderecos, {
+    models.pessoas.hasOne(models.enderecos, {
       foreignKey: 'endereco_id',
+    });
+
+    models.pessoas.hasMany(models.alunos, {
+      foreignKey: 'aluno_id',
     });
   };
 
