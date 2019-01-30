@@ -21,6 +21,14 @@ export default (sequelize, DataTypes) => {
     models.alunos.hasOne(models.cursos, {
       foreignKey: 'curso_id',
     });
+
+    models.alunos.belongsTo(models.polos, {
+      foreignKey: 'polo_id',
+    });
+
+    models.alunos.hasMany(models.pagamentos, {
+      foreignKey: 'pagamento_id',
+    });
   };
 
   return students;
