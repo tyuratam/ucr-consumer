@@ -84,4 +84,7 @@ typings/
 # DynamoDB Local files
 .dynamodb/
 
+# Excel Temporary Files
+tmp/
+
 # End of https://www.gitignore.io/api/node
