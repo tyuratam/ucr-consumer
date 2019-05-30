@@ -1,10 +1,11 @@
 import fs from 'fs';
-import path from 'path';
-import Sequelize from 'sequelize';
 import mysql from 'mysql2';
+import path from 'path';
+import { Sequelize } from 'sequelize';
 
 const currentFile = path.basename(__filename);
 const sequelizeLog = process.env.SEQUELIZE_LOG;
+// eslint-disable-next-line no-console
 const logging = (sequelizeLog === 'silent') ? () => {} : output => console.log(output);
 
 const db = {};

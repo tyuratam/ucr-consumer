@@ -60,11 +60,11 @@ export default (sequelize, DataTypes) => {
       foreignKey: 'inscricao_colaborador_id',
     });
 
-    models.acompanhamentos.hasMany(models.colaborador, {
+    models.acompanhamentos.hasMany(models.colaboradores, {
       foreignKey: 'primeiro_atendimento_colaborador_id',
     });
 
-    models.acompanhamentos.hasMany(models.colaborador, {
+    models.acompanhamentos.hasMany(models.colaboradores, {
       foreignKey: 'ultimo_atendimento_colaborador_id',
     });
   };

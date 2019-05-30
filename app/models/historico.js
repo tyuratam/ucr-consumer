@@ -5,16 +5,16 @@ export default (sequelize, DataTypes) => {
       autoIncrement: true,
       primaryKey: true,
     },
-    data: DataTypes.DATETIME,
+    data: DataTypes.DATE,
     objeto: DataTypes.STRING,
   });
 
   history.associate = (models) => {
-    models.hostorico.hasMany(models.pessoas, {
+    models.historico.hasMany(models.pessoas, {
       foreignKey: 'pessoa_id',
     });
 
-    models.hostorico.hasMany(models.termos, {
+    models.historico.hasMany(models.termos, {
       foreignKey: 'termo_id',
     });
   };
