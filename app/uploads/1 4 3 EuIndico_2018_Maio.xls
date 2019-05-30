@@ -1,0 +1,967 @@
+
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+<body>
+
+<div id="conteudo" >
+
+		<table class="rCabecalho" cellspacing="0" cellpadding="0" width="100%">
+	 <tr> 
+        <td width="25%" align='left' >
+        	        </td>
+        <td width="75%" align='right' style='font-size:20px;font-weight:bold;'>
+			CUPONS GERADOS X CUPONS UTILIZADOS - EU INDICO ALUNO		</td>        
+      </tr>
+	</table>
+	
+	<table class="rParamentro" style="display:" cellspacing="0" cellpadding="0" width="100%" border="0">
+		<tr> 
+			<td width="100%" align='left'>
+				<b>PARÂMETROS:&nbsp;&nbsp;</b> 
+			<u>ANO:</u>&nbsp;<i>2018</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>SEMESTRE:</u>&nbsp;<i>52</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>TIPO:</u>&nbsp;<i>*</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>POLO:</u>&nbsp;<i>ITABIRA - MG</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			</td>
+		</tr>     
+	</table>
+	
+	<hr class="rDivisoria" noshade >
+	<table class="rDetalhes" style="display:" cellspacing="0" cellpadding="0" width="100%" border="0">
+		<tr> 
+							<td style='font-weight:bold' width='1%' align='right'><nobr>UNIDADE:&nbsp;&nbsp;</td>
+							<td width='80%' align='left'>UNICESUMAR - CENTRO UNIVERSITÁRIO CESUMAR</td>
+						</tr><tr> 
+							<td style='font-weight:bold' width='1%' align='right'><nobr>INSTITUIÇÃO:&nbsp;&nbsp;</td>
+							<td width='80%' align='left'>EAD - EDUCAÇÃO A DISTÂNCIA</td>
+						</tr>	</table>
+	
+	<hr class="rDivisoria" noshade >
+
+		
+	<table class="rRelatorio" cellspacing="0" cellpadding="0" width="100%">   		     
+		<thead>
+			<tr> 
+							<td class="tdHead" width="10"  align="center"><nobr>&nbsp;</td>
+							<td class="tdHead" width="80" align="center"><nobr>ALUNO</td>
+				<td class="tdHead" align="center"><nobr>NOME</td>
+				<td class="tdHead" align="center"><nobr>POLO</td>
+				<td class="tdHead" width="150" align="right"><nobr>TOTAL CUPONS GERADOS</td>
+				<td class="tdHead" width="150" align="right"><nobr>GERADOS AVA</td>
+				<td class="tdHead" width="150" align="right"><nobr>GERADOS SITE</td>
+				<td class="tdHead" width="150" align="right"><nobr>CUPONS UTILIZADOS</td>
+				<td class="tdHead" width="150" align="right"><nobr>MATRICULADOS</td>
+							
+			</tr>
+		</thead>
+	    
+	    <tbody>
+	    	<tr>  <td valign='top' class='tdBody' align='center'><nobr>1</td>  <td valign='top' class='tdBody' align='center'><nobr>1821186-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>ADRIANA APARECIDA GONÇALVES MESQUITA FREITAS</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>2</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1711233-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ADRIANA DUARTE FONSECA ALVES</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>24</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>24</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>12</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>4</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>3</td>  <td valign='top' class='tdBody' align='center'><nobr>1720257-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>ALINE APARECIDA TOMAZ</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>4</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1746518-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ANA CAROLINA DIAS SOARES</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>5</td>  <td valign='top' class='tdBody' align='center'><nobr>1801458-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>ANA DE FATIMA SILVA ALVARENGA</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>11</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>11</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>6</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1748501-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ANA PAULA DE SOUZA BARROS</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>2</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>2</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>2</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>7</td>  <td valign='top' class='tdBody' align='center'><nobr>1815793-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>ANDRE LUIZ BRANDÃO COELHO</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>6</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>6</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>8</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1865331-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ANDRE TORQUATO JUVENTINO DIAS</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>9</td>  <td valign='top' class='tdBody' align='center'><nobr>1820779-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>ANDRIELE APARECIDA VENTURA GONÇALVES</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							<td valign='top' class='tdBody' align='right'><nobr>1</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>10</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1653129-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ANIELE GLAUCIANE DA SILVA</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>11</td>  <td valign='top' class='tdBody' align='center'><nobr>1855552-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>APARECIDA LOURDES FERNANDES GONÇALVES</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>2</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>2</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>12</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1842689-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>BEATRIZ SOARES AMADOR</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>7</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>7</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>5</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>2</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>13</td>  <td valign='top' class='tdBody' align='center'><nobr>1866012-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>BRUNA RODRIGUES OLIVEIRA SILVA</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>5</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>5</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>14</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1854824-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>BRUNO DE ASSIS LAGE</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>7</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>7</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>2</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>15</td>  <td valign='top' class='tdBody' align='center'><nobr>1813380-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>CLEIDIANE DA SILVA MARQUES RODRIGUES</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>2</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							<td valign='top' class='tdBody' align='right'><nobr>1</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>16</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1812190-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>CRISLAINE LAGE FERREIRA</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>17</td>  <td valign='top' class='tdBody' align='center'><nobr>1803991-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>DAGMA APARECIDA SILVA</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>2</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>2</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>18</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1754464-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>DANIELA MARTINS DE OLIVEIRA</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>19</td>  <td valign='top' class='tdBody' align='center'><nobr>1735445-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>DANILTON DE ABREU DUARTE</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>2</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>2</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>2</td>
+							<td valign='top' class='tdBody' align='right'><nobr>2</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>20</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1702362-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>DÉBORA ANDRADE OLIVEIRA ALMEIDA</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>21</td>  <td valign='top' class='tdBody' align='center'><nobr>1830235-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>DELIO BONAPARTE FERREIRA</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>8</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>8</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							<td valign='top' class='tdBody' align='right'><nobr>1</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>22</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1712044-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>DIANA CANDIDO DE BRITO</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>23</td>  <td valign='top' class='tdBody' align='center'><nobr>1865075-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>EDILENE PURIFICAÇÃO NASCIMENTO OLIVEIRA</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>2</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>2</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>24</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1702835-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ELIANE PINTO FIGUEIREDO</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>6</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>6</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>4</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>3</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>25</td>  <td valign='top' class='tdBody' align='center'><nobr>1853549-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>FABIO APARECIDO GONÇALVES</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>5</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>5</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>2</td>
+							<td valign='top' class='tdBody' align='right'><nobr>1</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>26</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1848461-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>FRANCELINE DA SILVA MARIANO</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>10</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>10</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>6</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>3</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>27</td>  <td valign='top' class='tdBody' align='center'><nobr>1803103-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>FRANCISCO AUGUSTO NOGUEIRA</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>8</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>8</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>3</td>
+							<td valign='top' class='tdBody' align='right'><nobr>1</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>28</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1824651-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>FREDERICO VASCONCELOS DIAS</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>29</td>  <td valign='top' class='tdBody' align='center'><nobr>1848411-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>GERALDA MARGARIDA LOURENÇO</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>15</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>15</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>30</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1650284-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>GIRLEY  JOSE DE OLIVEIRA</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>31</td>  <td valign='top' class='tdBody' align='center'><nobr>1840216-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>GISLAINE MARA LOPES MARTINS</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>2</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>2</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>32</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1803901-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>GLEICE ANELIA SILVA</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>9</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>9</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>5</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>3</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>33</td>  <td valign='top' class='tdBody' align='center'><nobr>1653425-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>GLEIDSON DE CAMPOS TAVARES</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>34</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1647573-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>GLEISE DE FATIMA DIAS MARTINS SA</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>35</td>  <td valign='top' class='tdBody' align='center'><nobr>1849977-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>GUILBERT GUSTAVO SILVA ANDRADE</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>44</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>44</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>36</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1757424-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>HARIANA MARA SANTOS SILVA</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>35</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>35</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>37</td>  <td valign='top' class='tdBody' align='center'><nobr>1863664-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>HELLEN BÁRBARA MARTINS DA COSTA</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>38</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1805685-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>HERBERT FERNANDES SOARES</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>2</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>2</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>2</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>39</td>  <td valign='top' class='tdBody' align='center'><nobr>1823335-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>JOSE LUCIANO DE OLIVEIRA</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>6</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>6</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>3</td>
+							<td valign='top' class='tdBody' align='right'><nobr>2</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>40</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1803213-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>JULIANA GABRIELE FARIA ESTORARI</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>2</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>2</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>2</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>41</td>  <td valign='top' class='tdBody' align='center'><nobr>1754788-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>JUSSARA VIEIRA DE SALLES COSTA</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>3</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>3</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>42</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1649255-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>KARLA GONÇALVES SANTOS</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>2</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>2</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>43</td>  <td valign='top' class='tdBody' align='center'><nobr>1720679-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>KENIA BARBOSA DE SOUSA</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>12</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>12</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>4</td>
+							<td valign='top' class='tdBody' align='right'><nobr>2</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>44</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1651552-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>LARISSA VIEIRA</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>5</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>5</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>45</td>  <td valign='top' class='tdBody' align='center'><nobr>1827113-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>LEONARDO HENRIQUE DA SILVA</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>3</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>3</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							<td valign='top' class='tdBody' align='right'><nobr>1</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>46</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1806309-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>LILIANE CRISTINA ROCHA DE ALVARENGA</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>5</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>5</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>47</td>  <td valign='top' class='tdBody' align='center'><nobr>1758239-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>LINA HELENA DE SOUZA</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>10</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>10</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>48</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1807693-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>LUANA ANDREZA FERREIRA</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>4</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>4</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>49</td>  <td valign='top' class='tdBody' align='center'><nobr>1712200-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>LUANA CECÍLIA RIBEIRO FERNANDES</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							<td valign='top' class='tdBody' align='right'><nobr>1</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>50</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1830757-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>LUCAS REZENDE MAYRINK MAGALHAES</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>10</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>10</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>9</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>5</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>51</td>  <td valign='top' class='tdBody' align='center'><nobr>1842937-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>LUCIANA BERNARDO PEIXOTO MAGALHAES</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>52</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1853814-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>LUCIANO ARCANJO DE MELO</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>53</td>  <td valign='top' class='tdBody' align='center'><nobr>1853063-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>LUDIMILLA MENDES DA SILVA</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>54</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1647658-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>LWANA BORGES DA SILVA ALVES</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>55</td>  <td valign='top' class='tdBody' align='center'><nobr>1837332-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>MAGNO FERREIRA  GONÇALVES</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>2</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>2</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>56</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1653296-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>MARCIO FELIPE GORINO</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>6</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>6</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>57</td>  <td valign='top' class='tdBody' align='center'><nobr>1649488-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>MARINA PROCOPIO PINTO COELHO</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>4</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>4</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>58</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1748214-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>MAYLENA GOMES VIEIRA</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>59</td>  <td valign='top' class='tdBody' align='center'><nobr>1810412-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>MIRELLY CRISTINA NEPOMUCENO</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>60</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1827513-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>NAEDIS MARIA QUINTÃO PORTILHO</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>5</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>5</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>2</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>61</td>  <td valign='top' class='tdBody' align='center'><nobr>1854197-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>NATALIA NATAN MENDES COUTO</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							<td valign='top' class='tdBody' align='right'><nobr>1</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>62</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1807460-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>NATIELY PEREIRA DE FREITAS</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>63</td>  <td valign='top' class='tdBody' align='center'><nobr>1726921-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>NAYARA CRISTINA SOARES MIRANDA</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>4</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>4</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>64</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1708952-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>NAYARA DA SILVA SABINO</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>65</td>  <td valign='top' class='tdBody' align='center'><nobr>1836118-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>NAYARA DUARTE GORINO</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>66</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1648278-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>PAMELLA ROBERTA SANTOS SILVA</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>4</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>4</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>2</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>67</td>  <td valign='top' class='tdBody' align='center'><nobr>1748578-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>RAFAEL LAGE PEREIRA LUSTOSA</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>68</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1864590-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>RAFAEL OLIVEIRA GONCALVES</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>69</td>  <td valign='top' class='tdBody' align='center'><nobr>1747724-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>RAFAELA RODRIGUES DOS SANTOS</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>3</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>3</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>70</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1801645-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>RAMON SILVA DIAS</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>2</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>2</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>71</td>  <td valign='top' class='tdBody' align='center'><nobr>1856879-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>REGINALDO APARECIDO MARQUES</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>3</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>3</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>72</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1865239-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>RENATO FABIANO OLIVEIRA SILVA</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>2</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>2</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>73</td>  <td valign='top' class='tdBody' align='center'><nobr>1844908-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>RITA DE CASSIA CAETANO</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>3</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>3</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>3</td>
+							<td valign='top' class='tdBody' align='right'><nobr>2</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>74</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1758754-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ROBERT VINICIUS SANTOS SOARES</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>75</td>  <td valign='top' class='tdBody' align='center'><nobr>1822573-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>SABRINA MARINA SILVA</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>4</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>4</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>4</td>
+							<td valign='top' class='tdBody' align='right'><nobr>3</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>76</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1860830-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>SAMUEL SABINO DE ALMEIDA</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>77</td>  <td valign='top' class='tdBody' align='center'><nobr>1712913-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>SIBELE ANASTACIA RODRIGUES</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>10</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>10</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>78</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1726893-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>TAMARA DA CRUZ</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>79</td>  <td valign='top' class='tdBody' align='center'><nobr>1830327-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>THAMIRES APARECIDA LOURENÇO BRAGA</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>80</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1839564-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>VINICIUS ANTONIO JORGE</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>1</td></tr><tr>  <td valign='top' class='tdBody' align='center'><nobr>81</td>  <td valign='top' class='tdBody' align='center'><nobr>1710710-5</td>
+							<td valign='top' class='tdBody' align='left'><nobr>VINICIUS AURELIANO GUEDES ALVES</td>										
+							<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							
+							<td valign='top' class='tdBody' align='right'><nobr>1</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBody' align='right'><nobr>0</td>
+							<td valign='top' class='tdBody' align='right'><nobr>0</td></tr><tr>  <td valign='top' class='tdBodyDef' align='center'><nobr>82</td>  <td valign='top' class='tdBodyDef' align='center'><nobr>1650433-5</td>
+							<td valign='top' class='tdBodyDef' align='left'><nobr>WESLEY RIBEIRO DA SILVA</td>										
+							<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>			
+							<td valign='top' class='tdBodyDef' align='right'><nobr>4</td>
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>4</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							
+							
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td>
+							<td valign='top' class='tdBodyDef' align='right'><nobr>0</td></tr><tr>
+							<td style='border-top:1px solid black'>&nbsp;</td>
+							<td style='border-top:1px solid black'>&nbsp;</td>
+							<td style='border-top:1px solid black'>&nbsp;</td>
+							<td style='border-top:1px solid black' align=right><strong>TOTAIS</strong></td>
+							<td style='border-top:1px solid black' align=right><strong>368</strong></td>		
+							<td style='border-top:1px solid black' align=right><strong>367</strong></td>	
+							<td style='border-top:1px solid black' align=right><strong>1</strong></td>
+							<td style='border-top:1px solid black' align=right><strong>102</strong></td>
+							<td style='border-top:1px solid black' align=right><strong>55</strong></td>		   </tbody>
+   
+	   <tfoot>
+	      <tr>
+	      	<td colspan="100">
+				<table width="100%" cellpadding="0" cellspacing="0" style="padding-top:10px;">
+					<tr> 
+						<td class="tdFoot" colspan="3" align="left">Emissão: 06/08/2018 - 20:05:47</td>
+						<td class="tdFoot" colspan="3" align="right">Departamento de Tecnologia da Informação - EAD</td>
+					</tr>
+	      		</table>
+	      	</td>
+	      </tr>
+	    </tfoot>	
+	   	    
+  </table>
+  
+</div>
+</div> 
+</body>
+</html>
+
+<style>
+	*{
+		font-family : trebuchet ms;
+		font-size:11px;	
+	}	
+	
+	table.rCabecalho{
+		
+	}
+	
+	table.rParamentro{
+		margin-top:10px;
+		margin-bottom:10px;
+		border:1px solid black;
+		padding:8px;
+	}
+	
+	table.rDetalhes {
+		padding-left:20px;
+		padding-bottom:10px;
+	}			
+	
+	table.rRelatorio{
+	}
+
+	td.tdHead{
+		border-bottom: solid 1px #000000;	
+		font-weight:bold;
+		padding:3px;
+		color:#000000;		
+	}	
+	
+	td.tdBody{
+		background : #FFFFFF;
+		padding:3px;
+		line-height:25px;
+	}
+	
+	td.tdBodyDef{
+		background : #E2E2E2;
+		padding:3px;
+		line-height:25px;
+	}
+
+	td.tdFoot{
+		border-top: solid 2px #000000;
+		font-weight:normal;
+		padding-top:5px;
+		color:#000000;
+	}
+	
+	hr.rDivisoria{
+		width: 100%; 
+		color: #000000; 
+		background:#000000; 
+		height: 1px; 		
+	}		
+}
+
+</style>

@@ -1,0 +1,1592 @@
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<style>
+		*{
+			font-family : trebuchet ms;
+			font-size:11px;	
+		}	
+		
+		table.rCabecalho{
+			
+		}
+		
+		table.rParamentro{
+			margin-top:10px;
+			margin-bottom:10px;
+			border:1px solid black;
+			padding:8px;
+		}
+		
+		table.rDetalhes {
+			padding-left:20px;
+			padding-bottom:10px;
+		}			
+		
+		table.rRelatorio{
+		}
+
+		td.tdHead{
+			border-bottom: solid 1px #000000;	
+			font-weight:bold;
+			padding:3px;
+			color:#000000;		
+		}	
+		
+		td.tdBody{
+			background : #FFFFFF;
+			padding:3px;
+			line-height:18px;
+		}
+		
+		td.tdBodyDef{
+			background : #E2E2E2;
+			padding:3px;
+			line-height:18px;
+		}
+
+		td.tdFoot{
+			border-top: solid 2px #000000;
+			font-weight:normal;
+			padding-top:5px;
+			color:#000000;
+		}
+		
+		hr.rDivisoria{
+			width: 100%; 
+			color: #000000; 
+			background:#000000; 
+			height: 1px; 		
+		}		
+	}
+	</style>
+</head>
+<body>
+
+<div id="conteudo">
+	
+	<!--
+	<table class="rParamentro" style="display:" cellspacing="0" cellpadding="0" width="100%" border="0">
+	<tr> 
+		<td width="100%" align='left'>
+		<b>PARÂMETROS:&nbsp;&nbsp;</b> 
+		<u>REPASSE:</u>&nbsp;<i>430</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>POLO / CONVENIO:</u>&nbsp;<i>403</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		</td>
+	</tr>     
+	</table>
+	-->
+
+	<table class="rDetalhes" style="display:" cellspacing="0" cellpadding="0" width="100%" border="0">
+	<tr> 
+							<td style='font-weight:bold' width='1%' align='right'><nobr>UNIDADE:&nbsp;&nbsp;</td>
+							<td width='80%' align='left'>UNICESUMAR - CENTRO UNIVERSITÁRIO CESUMAR</td>
+						</tr><tr> 
+							<td style='font-weight:bold' width='1%' align='right'><nobr>INSTITUIÇÃO:&nbsp;&nbsp;</td>
+							<td width='80%' align='left'>EAD - EDUCAÇÃO A DISTÂNCIA</td>
+						</tr><tr> 
+							<td style='font-weight:bold' width='1%' align='right'><nobr>REPASSE:&nbsp;&nbsp;</td>
+							<td width='80%' align='left'>REPASSE SETEMBRO/2016</td>
+						</tr><tr> 
+							<td style='font-weight:bold' width='1%' align='right'><nobr>PERÍODO:&nbsp;&nbsp;</td>
+							<td width='80%' align='left'>21/08/2016 a 20/09/2016</td>
+						</tr><tr> 
+							<td style='font-weight:bold' width='1%' align='right'><nobr>PERÍODO UNIVERSO EAD:&nbsp;&nbsp;</td>
+							<td width='80%' align='left'>21/07/2016 a 20/08/2016</td>
+						</tr><tr> 
+							<td style='font-weight:bold' width='1%' align='right'><nobr>POLO:&nbsp;&nbsp;</td>
+							<td width='80%' align='left'>ITABIRA - MG</td>
+						</tr>	</table>
+
+	<table class="rRelatorio" border="0" cellspacing="0" cellpadding="0" width="100%">   		     
+						<tbody>
+
+				<tr>
+				 	<td valign='top' class='tdBody' width='40%' style='background:#BFBFBF; border-left:1px solid black; border-top:1px solid black; border-bottom:1px solid black; text-transform: uppercase;' align='left'>
+				 		<b>CONVENIADO</b><br />
+				 		RANNY EDUCACIONAL LTDA - ME
+				 	</td>
+				 	<td valign='top' class='tdBody' width='35%' style='background:#BFBFBF; border-bottom:1px solid black; border-top:1px solid black; text-transform: uppercase;' align='left'>
+				 		<b>POLO/CONVÊNIO</b><br />
+				 		ITABIRA - MG
+				 	</td>
+				 	<td valign='top' class='tdBody' width='25%' colspan='2' style='background:#BFBFBF; border-right:1px solid black; border-top:1px solid black; border-bottom:1px solid black; text-transform: uppercase;' align='left'>
+				 		<b>DADOS BANCÁRIOS</b><br />SANTANDER | <b>AGÊNCIA</b> 3155 <b>CONTA</b> 13081423-2
+				 	</td>
+				 </tr>
+
+					<tr>
+					 	<td colspan='4' style='padding-top:10px;font-size:20px;font-weight:bold;'>DESCONTOS</td>
+					</tr>
+					<tr>
+					 	<td colspan='4'>
+					 		<table width='100%' border='0' class='rRelatorio' cellspacing='0' cellpadding='0'>
+					 		
+
+				<tr>
+					<td width='1%' valign='top' class='tdHead' align='center'><nobr>&nbsp;</td>
+					<td width='10%' valign='top' class='tdHead' align='center'><nobr><b>&nbsp;</b></td>
+					<td width='40%' valign='top' class='tdHead' align='left'><nobr><b>NOME</b></td>
+					<td width='10%' valign='top' class='tdHead' align='center'><nobr><b>&nbsp;</b></td>
+					<td width='20%' valign='top' class='tdHead' align='left'><nobr><b>POLO</b></td>
+					<td width='10%' valign='top' class='tdHead' align='center'><nobr><b>&nbsp;</b></td>
+					<td width='10%' valign='top' class='tdHead' align='center'><nobr><b>&nbsp;</b></td>
+					<td width='10%' valign='top' class='tdHead' align='center'><nobr><b>PARCELA</b></td>
+					<td width='10%' valign='top' class='tdHead' align='center'><nobr><b>DATA VENCIMENTO</b></td>
+					<td width='10%' valign='top' class='tdHead' align='center'><nobr><b>DATA PAGAMENTO</b></td>
+					<td width='10%' valign='top' class='tdHead' align='right'><nobr><b>VALOR PAGO </b></td>
+					<td width='10%' valign='top' class='tdHead' align='right'><nobr><b>VALOR REPASSE</b></td>
+				</tr>
+					 		</table>
+					 	</td>
+					</tr>
+					<!--
+					<tr> 
+						<td valign='top' class='tdBody' align='right' colspan='3'><b>VALOR NF</b></td>
+						<td valign='top' class='tdBody' align='right' width='10%'><b>0,00</b></td>
+					</tr>
+					<tr> 
+						<td valign='top' class='tdBody' align='right' colspan='3'><b>DESCONTOS</b></td>
+						<td valign='top' class='tdBody' align='right' width='10%'><b>0,00</b></td>
+					</tr>
+					-->
+					<tr> 
+						<td style='border-top:1px solid black; border-bottom:1px solid black' valign='top' class='tdBody' align='right' colspan='3'><b>VALOR REPASSE</b></td>
+						<td style='border-top:1px solid black; border-bottom:1px solid black; width:1%;' valign='top' class='tdBody' align='right'><b>0,00</b></td>
+					</tr>
+
+					<tr>
+					 	<td colspan='4' style='padding-top:10px;font-size:20px;font-weight:bold;'>RECEITA GRADUAÇÃO</td>
+					</tr>
+					<tr>
+					 	<td colspan='4'>
+					 		<table width='100%' border='0' class='rRelatorio' cellspacing='0' cellpadding='0'>
+					 		
+
+				<tr>
+					<td width='1%' valign='top' class='tdHead' align='center'><nobr>&nbsp;</td>
+					<td width='10%' valign='top' class='tdHead' align='center'><nobr><b>ALUNO</b></td>
+					<td width='40%' valign='top' class='tdHead' align='left'><nobr><b>NOME</b></td>
+					<td width='10%' valign='top' class='tdHead' align='center'><nobr><b>CURSO</b></td>
+					<td width='20%' valign='top' class='tdHead' align='left'><nobr><b>POLO DO ALUNO</b></td>
+					<td width='10%' valign='top' class='tdHead' align='center'><nobr><b>DT. INGRESSO</b></td>
+					<td width='10%' valign='top' class='tdHead' align='center'><nobr><b>TIPO</b></td>
+					<td width='10%' valign='top' class='tdHead' align='center'><nobr><b>PARCELA</b></td>
+					<td width='10%' valign='top' class='tdHead' align='center'><nobr><b>DATA VENCIMENTO</b></td>
+					<td width='10%' valign='top' class='tdHead' align='center'><nobr><b>DATA PAGAMENTO</b></td>
+					<td width='10%' valign='top' class='tdHead' align='right'><nobr><b>VALOR PAGO </b></td>
+					<td width='10%' valign='top' class='tdHead' align='right'><nobr><b>VALOR REPASSE</b></td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>1</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1647740-5</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ALESSANDRA MAGALHAES CRUZ</td>
+						<td valign='top' class='tdBodyDef' align='center' title='GRADUAÇÃO EM ADMINISTRAÇÃO'><nobr>EGRAD_ADM</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>23/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>23/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>19/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 207,28</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 62,18</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBody' align='center'>2</td>
+						<td valign='top' class='tdBody' align='center'><nobr>1647977-5</td>
+						<td valign='top' class='tdBody' align='left'><nobr>MARCOS ANTONIO VAZ JUNIOR</td>
+						<td valign='top' class='tdBody' align='center' title='GRADUAÇÃO EM ADMINISTRAÇÃO'><nobr>EGRAD_ADM</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBody' align='center'><nobr>26/08/2016</td>
+						<td valign='top' class='tdBody' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>26/08/2016</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>24/08/2016</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 207,28</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 62,18</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>3</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1648578-5</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>RAFAELA TOLENTINO SILVA</td>
+						<td valign='top' class='tdBodyDef' align='center' title='GRADUAÇÃO EM ADMINISTRAÇÃO'><nobr>EGRAD_ADM</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>06/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>06/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>02/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 207,28</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 62,18</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBody' align='center'>4</td>
+						<td valign='top' class='tdBody' align='center'><nobr>1647835-5</td>
+						<td valign='top' class='tdBody' align='left'><nobr>RAYANE CRISTINA SANTOS</td>
+						<td valign='top' class='tdBody' align='center' title='GRADUAÇÃO EM ADMINISTRAÇÃO'><nobr>EGRAD_ADM</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBody' align='center'><nobr>24/08/2016</td>
+						<td valign='top' class='tdBody' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>24/08/2016</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>22/08/2016</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 165,83</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 49,75</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>5</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1647808-5</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>MICHELE DE FREITAS RIBEIRO</td>
+						<td valign='top' class='tdBodyDef' align='center' title='SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS'><nobr>EGRAD_ADSIS</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>24/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>24/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>22/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 198,17</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 59,45</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBody' align='center'>6</td>
+						<td valign='top' class='tdBody' align='center'><nobr>1649488-5</td>
+						<td valign='top' class='tdBody' align='left'><nobr>MARINA PROCOPIO PINTO COELHO</td>
+						<td valign='top' class='tdBody' align='center' title='GRADUAÇÃO EM PEDAGOGIA'><nobr>EGRAD_CCONT</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBody' align='center'><nobr>14/09/2016</td>
+						<td valign='top' class='tdBody' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>14/09/2016</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>12/09/2016</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 165,83</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 49,75</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>7</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1647021-5</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>RAIMUNDA DOS SANTOS SOARES</td>
+						<td valign='top' class='tdBodyDef' align='center' title='SUPERIOR DE TECNOLOGIA EM DESIGN DE MODA'><nobr>EGRAD_DM</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>12/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>2</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>12/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>12/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 296,25</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 88,88</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBody' align='center'>8</td>
+						<td valign='top' class='tdBody' align='center'><nobr>1648477-5</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ELIZIANE APARECIDA DUARTE</td>
+						<td valign='top' class='tdBody' align='center' title='LICENCIATURA EM EDUCAÇÃO FÍSICA'><nobr>EGRAD_EDU</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBody' align='center'><nobr>03/09/2016</td>
+						<td valign='top' class='tdBody' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>05/09/2016</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>01/09/2016</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 204,00</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 61,20</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>9</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1649509-5</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>FABRICIO ALBERTO SOUZA</td>
+						<td valign='top' class='tdBodyDef' align='center' title='LICENCIATURA EM EDUCAÇÃO FÍSICA'><nobr>EGRAD_EDU</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>14/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>14/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>12/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 204,00</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 61,20</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBody' align='center'>10</td>
+						<td valign='top' class='tdBody' align='center'><nobr>1649047-5</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ILDEN ALVARO VIEIRA LAGE</td>
+						<td valign='top' class='tdBody' align='center' title='LICENCIATURA EM EDUCAÇÃO FÍSICA'><nobr>EGRAD_EDU</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBody' align='center'><nobr>10/09/2016</td>
+						<td valign='top' class='tdBody' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>12/09/2016</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>08/09/2016</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 204,00</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 61,20</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>11</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1647892-5</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>JANAINA BITTENCOURT VIEIRA</td>
+						<td valign='top' class='tdBodyDef' align='center' title='LICENCIATURA EM EDUCAÇÃO FÍSICA'><nobr>EGRAD_EDU</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>25/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>25/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>23/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 204,00</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 61,20</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBody' align='center'>12</td>
+						<td valign='top' class='tdBody' align='center'><nobr>1647958-5</td>
+						<td valign='top' class='tdBody' align='left'><nobr>MARCOS TULIO OLIVEIRA SILVA</td>
+						<td valign='top' class='tdBody' align='center' title='LICENCIATURA EM EDUCAÇÃO FÍSICA'><nobr>EGRAD_EDU</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBody' align='center'><nobr>26/08/2016</td>
+						<td valign='top' class='tdBody' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>26/08/2016</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>25/08/2016</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 204,00</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 61,20</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>13</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1647731-5</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>RAFAEL FERREIRA DIONISIO</td>
+						<td valign='top' class='tdBodyDef' align='center' title='BACHARELADO EM ENGENHARIA DE PRODUÇÃO'><nobr>EGRAD_EDU</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>23/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>23/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>19/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 204,00</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 61,20</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBody' align='center'>14</td>
+						<td valign='top' class='tdBody' align='center'><nobr>1648227-5</td>
+						<td valign='top' class='tdBody' align='left'><nobr>TAYNAN DO CARMO PIRES</td>
+						<td valign='top' class='tdBody' align='center' title='SUPERIOR DE TECNOLOGIA EM GESTÃO DE RECURSOS HUMANOS'><nobr>EGRAD_EDU</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBody' align='center'><nobr>31/08/2016</td>
+						<td valign='top' class='tdBody' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>31/08/2016</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>29/08/2016</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 204,00</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 61,20</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>15</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1649140-5</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ANA CECILIA GOMES DE SOUZA</td>
+						<td valign='top' class='tdBodyDef' align='center' title='BACHARELADO EM ENGENHARIA DE PRODUÇÃO'><nobr>EGRAD_EPROD</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>13/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>13/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>09/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 288,09</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 86,43</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBody' align='center'>16</td>
+						<td valign='top' class='tdBody' align='center'><nobr>1647809-5</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ANDRE LUIZ DOS SANTOS</td>
+						<td valign='top' class='tdBody' align='center' title='BACHARELADO EM ENGENHARIA DE PRODUÇÃO'><nobr>EGRAD_EPROD</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBody' align='center'><nobr>24/08/2016</td>
+						<td valign='top' class='tdBody' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>24/08/2016</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>22/08/2016</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 288,09</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 86,43</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>17</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1647825-5</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>CAMILA ADRIANA CLAUDIO</td>
+						<td valign='top' class='tdBodyDef' align='center' title='BACHARELADO EM ENGENHARIA DE PRODUÇÃO'><nobr>EGRAD_EPROD</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>24/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>24/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>22/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 288,09</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 86,43</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBody' align='center'>18</td>
+						<td valign='top' class='tdBody' align='center'><nobr>1647851-5</td>
+						<td valign='top' class='tdBody' align='left'><nobr>CHALISON MARQUES DE SA</td>
+						<td valign='top' class='tdBody' align='center' title='BACHARELADO EM ENGENHARIA DE PRODUÇÃO'><nobr>EGRAD_EPROD</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBody' align='center'><nobr>24/08/2016</td>
+						<td valign='top' class='tdBody' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>24/08/2016</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>23/08/2016</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 288,09</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 86,43</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>19</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1649933-5</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>CRISTIANO ALEKSANDRO MARIA</td>
+						<td valign='top' class='tdBodyDef' align='center' title='BACHARELADO EM ENGENHARIA DE PRODUÇÃO'><nobr>EGRAD_EPROD</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>18/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>19/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>16/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 230,47</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 69,14</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBody' align='center'>20</td>
+						<td valign='top' class='tdBody' align='center'><nobr>1647732-5</td>
+						<td valign='top' class='tdBody' align='left'><nobr>GRASIELA FIGUEIREDO DA SILVA</td>
+						<td valign='top' class='tdBody' align='center' title='BACHARELADO EM ENGENHARIA DE PRODUÇÃO'><nobr>EGRAD_EPROD</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBody' align='center'><nobr>23/08/2016</td>
+						<td valign='top' class='tdBody' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>23/08/2016</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>19/08/2016</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 288,09</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 86,43</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>21</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1648230-5</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>HUILDSON DOS SANTOS MARCAL</td>
+						<td valign='top' class='tdBodyDef' align='center' title='BACHARELADO EM ENGENHARIA DE PRODUÇÃO'><nobr>EGRAD_EPROD</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>31/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>31/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>29/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 288,09</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 86,43</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBody' align='center'>22</td>
+						<td valign='top' class='tdBody' align='center'><nobr>1649255-5</td>
+						<td valign='top' class='tdBody' align='left'><nobr>KARLA GONÇALVES SANTOS</td>
+						<td valign='top' class='tdBody' align='center' title='BACHARELADO EM ENGENHARIA DE PRODUÇÃO'><nobr>EGRAD_EPROD</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBody' align='center'><nobr>13/09/2016</td>
+						<td valign='top' class='tdBody' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>13/09/2016</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>09/09/2016</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 288,09</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 86,43</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>23</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1649133-5</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>LUCAS AVELAR DE PAIVA</td>
+						<td valign='top' class='tdBodyDef' align='center' title='SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL'><nobr>EGRAD_EPROD</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>13/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>13/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>09/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 230,47</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 69,14</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBody' align='center'>24</td>
+						<td valign='top' class='tdBody' align='center'><nobr>1649416-5</td>
+						<td valign='top' class='tdBody' align='left'><nobr>LUIZ FERNANDO LOURENCO MOTTA</td>
+						<td valign='top' class='tdBody' align='center' title='BACHARELADO EM ENGENHARIA DE PRODUÇÃO'><nobr>EGRAD_EPROD</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBody' align='center'><nobr>14/09/2016</td>
+						<td valign='top' class='tdBody' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>14/09/2016</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>12/09/2016</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 288,09</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 86,43</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>25</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1647730-5</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>MARINA FERREIRA SOARES</td>
+						<td valign='top' class='tdBodyDef' align='center' title='GRADUAÇÃO EM PEDAGOGIA'><nobr>EGRAD_EPROD</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>23/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>23/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>19/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 288,09</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 86,43</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBody' align='center'>26</td>
+						<td valign='top' class='tdBody' align='center'><nobr>1649786-5</td>
+						<td valign='top' class='tdBody' align='left'><nobr>SAULO D´PAULA ALMEIDA</td>
+						<td valign='top' class='tdBody' align='center' title='BACHARELADO EM ENGENHARIA DE PRODUÇÃO'><nobr>EGRAD_EPROD</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBody' align='center'><nobr>16/09/2016</td>
+						<td valign='top' class='tdBody' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>16/09/2016</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>14/09/2016</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 303,03</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 90,91</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>27</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1648072-5</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>SEBASTIAO CUSTODIO FILHO</td>
+						<td valign='top' class='tdBodyDef' align='center' title='BACHARELADO EM ENGENHARIA DE PRODUÇÃO'><nobr>EGRAD_EPROD</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>27/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>29/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>25/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 230,47</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 69,14</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBody' align='center'>28</td>
+						<td valign='top' class='tdBody' align='center'><nobr>1648036-5</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ARLEM FLÁVIO DE SENA</td>
+						<td valign='top' class='tdBody' align='center' title='BACHARELADO EM ENGENHARIA DE SOFTWARE'><nobr>EGRAD_ESOFT</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBody' align='center'><nobr>27/08/2016</td>
+						<td valign='top' class='tdBody' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>29/08/2016</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>25/08/2016</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 288,09</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 86,43</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>29</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1647756-5</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>EDIMAR PEREIRA ROQUE</td>
+						<td valign='top' class='tdBodyDef' align='center' title='BACHARELADO EM ENGENHARIA DE SOFTWARE'><nobr>EGRAD_ESOFT</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>23/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>23/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>22/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 288,09</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 86,43</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBody' align='center'>30</td>
+						<td valign='top' class='tdBody' align='center'><nobr>1649138-5</td>
+						<td valign='top' class='tdBody' align='left'><nobr>RENAN  DOUGLAS AZEVEDO</td>
+						<td valign='top' class='tdBody' align='center' title='SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS'><nobr>EGRAD_ESOFT</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBody' align='center'><nobr>13/09/2016</td>
+						<td valign='top' class='tdBody' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>13/09/2016</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>09/09/2016</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 288,09</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 86,43</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>31</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1647735-5</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>RONE MARCELINO COELHO</td>
+						<td valign='top' class='tdBodyDef' align='center' title='BACHARELADO EM ENGENHARIA DE SOFTWARE'><nobr>EGRAD_ESOFT</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>23/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>23/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>19/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 288,09</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 86,43</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBody' align='center'>32</td>
+						<td valign='top' class='tdBody' align='center'><nobr>1647733-5</td>
+						<td valign='top' class='tdBody' align='left'><nobr>WELLINGTON DOS SANTOS AMARO</td>
+						<td valign='top' class='tdBody' align='center' title='BACHARELADO EM ENGENHARIA DE SOFTWARE'><nobr>EGRAD_ESOFT</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBody' align='center'><nobr>23/08/2016</td>
+						<td valign='top' class='tdBody' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>23/08/2016</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>19/08/2016</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 288,09</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 86,43</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>33</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1648380-5</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>WELLINGTON GUIMARAES FELIPE</td>
+						<td valign='top' class='tdBodyDef' align='center' title='BACHARELADO EM ENGENHARIA DE SOFTWARE'><nobr>EGRAD_ESOFT</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>02/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>02/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>31/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 288,09</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 86,43</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBody' align='center'>34</td>
+						<td valign='top' class='tdBody' align='center'><nobr>1647812-5</td>
+						<td valign='top' class='tdBody' align='left'><nobr>JEFERSON CLEITON VIEIRA GONÇALVES</td>
+						<td valign='top' class='tdBody' align='center' title='SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL'><nobr>EGRAD_GAMB</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBody' align='center'><nobr>24/08/2016</td>
+						<td valign='top' class='tdBody' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>24/08/2016</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>22/08/2016</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 198,17</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 59,45</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>35</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1647895-5</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>JOSÉ DA LUZ SILVA</td>
+						<td valign='top' class='tdBodyDef' align='center' title='SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL'><nobr>EGRAD_GAMB</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>25/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>25/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>23/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 198,17</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 59,45</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBody' align='center'>36</td>
+						<td valign='top' class='tdBody' align='center'><nobr>1647955-5</td>
+						<td valign='top' class='tdBody' align='left'><nobr>RAFAEL DOS SANTOS CITTY</td>
+						<td valign='top' class='tdBody' align='center' title='SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL'><nobr>EGRAD_GAMB</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBody' align='center'><nobr>26/08/2016</td>
+						<td valign='top' class='tdBody' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>26/08/2016</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>25/08/2016</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 198,17</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 59,45</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>37</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1648141-5</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>RICARDO JOSE FERNANDES</td>
+						<td valign='top' class='tdBodyDef' align='center' title='SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL'><nobr>EGRAD_GAMB</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>30/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>30/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>29/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 198,17</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 59,45</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBody' align='center'>38</td>
+						<td valign='top' class='tdBody' align='center'><nobr>1647828-5</td>
+						<td valign='top' class='tdBody' align='left'><nobr>AFONSO NALDIMAR PEDRO</td>
+						<td valign='top' class='tdBody' align='center' title='SUPERIOR DE TECNOLOGIA EM GASTRONOMIA'><nobr>EGRAD_GAS</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBody' align='center'><nobr>24/08/2016</td>
+						<td valign='top' class='tdBody' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>24/08/2016</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>22/08/2016</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 230,47</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 69,14</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>39</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1649004-5</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ALINE DA SILVA LUCAS</td>
+						<td valign='top' class='tdBodyDef' align='center' title='SUPERIOR DE TECNOLOGIA EM GASTRONOMIA'><nobr>EGRAD_GAS</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>10/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>12/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>08/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 230,47</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 69,14</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBody' align='center'>40</td>
+						<td valign='top' class='tdBody' align='center'><nobr>1649395-5</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ANDREZZA EMANUELA DA SILVA FERREIRA BORGES</td>
+						<td valign='top' class='tdBody' align='center' title='SUPERIOR DE TECNOLOGIA EM GASTRONOMIA'><nobr>EGRAD_GAS</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBody' align='center'><nobr>14/09/2016</td>
+						<td valign='top' class='tdBody' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>14/09/2016</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>12/09/2016</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 288,09</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 86,43</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>41</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1648255-5</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>BARBARA AMANDA TIANE DOS ANJOS</td>
+						<td valign='top' class='tdBodyDef' align='center' title='SUPERIOR DE TECNOLOGIA EM GASTRONOMIA'><nobr>EGRAD_GAS</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>31/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>31/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>29/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 288,09</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 86,43</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBody' align='center'>42</td>
+						<td valign='top' class='tdBody' align='center'><nobr>1648422-5</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ELAINE HELENA LACERDA BELCHIOR</td>
+						<td valign='top' class='tdBody' align='center' title='BACHARELADO EM ENGENHARIA DE PRODUÇÃO'><nobr>EGRAD_GAS</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBody' align='center'><nobr>02/09/2016</td>
+						<td valign='top' class='tdBody' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>02/09/2016</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>31/08/2016</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 288,09</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 86,43</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>43</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1647734-5</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>FERNANDA CRISTINA BARSANTE PAPADOPOULOS</td>
+						<td valign='top' class='tdBodyDef' align='center' title='SUPERIOR DE TECNOLOGIA EM GASTRONOMIA'><nobr>EGRAD_GAS</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>23/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>23/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>19/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 288,09</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 86,43</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBody' align='center'>44</td>
+						<td valign='top' class='tdBody' align='center'><nobr>1649768-5</td>
+						<td valign='top' class='tdBody' align='left'><nobr>GEIZILAINE DA SILVA PERDIGAO</td>
+						<td valign='top' class='tdBody' align='center' title='SUPERIOR DE TECNOLOGIA EM GASTRONOMIA'><nobr>EGRAD_GAS</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBody' align='center'><nobr>16/09/2016</td>
+						<td valign='top' class='tdBody' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>16/09/2016</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>15/09/2016</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 288,09</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 86,43</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>45</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1649197-5</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>JULIANA  FERREIRA DIAS</td>
+						<td valign='top' class='tdBodyDef' align='center' title='SUPERIOR DE TECNOLOGIA EM GASTRONOMIA'><nobr>EGRAD_GAS</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>13/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>13/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>09/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 230,47</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 69,14</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBody' align='center'>46</td>
+						<td valign='top' class='tdBody' align='center'><nobr>1647942-5</td>
+						<td valign='top' class='tdBody' align='left'><nobr>MARLEY ROCHA PORTO</td>
+						<td valign='top' class='tdBody' align='center' title='SUPERIOR DE TECNOLOGIA EM GASTRONOMIA'><nobr>EGRAD_GAS</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBody' align='center'><nobr>26/08/2016</td>
+						<td valign='top' class='tdBody' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>26/08/2016</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>24/08/2016</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 288,09</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 86,43</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>47</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1647943-5</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>RENATA FERREIRA DE MAGALHAES LEITE</td>
+						<td valign='top' class='tdBodyDef' align='center' title='SUPERIOR DE TECNOLOGIA EM GASTRONOMIA'><nobr>EGRAD_GAS</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>26/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>26/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>24/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 288,09</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 86,43</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBody' align='center'>48</td>
+						<td valign='top' class='tdBody' align='center'><nobr>1649875-5</td>
+						<td valign='top' class='tdBody' align='left'><nobr>RODRIGO MENDONÇA BERNARDI</td>
+						<td valign='top' class='tdBody' align='center' title='SUPERIOR DE TECNOLOGIA EM GASTRONOMIA'><nobr>EGRAD_GAS</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBody' align='center'><nobr>17/09/2016</td>
+						<td valign='top' class='tdBody' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>19/09/2016</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>15/09/2016</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 288,09</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 86,43</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>49</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1649873-5</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>VANIA MARIA DE  OLIVEIRA MACHADO</td>
+						<td valign='top' class='tdBodyDef' align='center' title='LICENCIATURA EM GEOGRAFIA'><nobr>EGRAD_GEO</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>17/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>19/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>15/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 188,55</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 56,57</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBody' align='center'>50</td>
+						<td valign='top' class='tdBody' align='center'><nobr>1648278-5</td>
+						<td valign='top' class='tdBody' align='left'><nobr>PAMELLA ROBERTA SANTOS SILVA</td>
+						<td valign='top' class='tdBody' align='center' title='SUPERIOR DE TECNOLOGIA EM NEGÓCIOS IMOBILIÁRIOS'><nobr>EGRAD_GIMOB</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBody' align='center'><nobr>31/08/2016</td>
+						<td valign='top' class='tdBody' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>31/08/2016</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>29/08/2016</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 198,17</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 59,45</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>51</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1647891-5</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ROGERIO EMILIO DA SILVA SANTOS</td>
+						<td valign='top' class='tdBodyDef' align='center' title='SUPERIOR DE TECNOLOGIA EM GESTÃO PÚBLICA'><nobr>EGRAD_GPUB</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>25/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>25/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>23/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 198,17</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 59,45</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBody' align='center'>52</td>
+						<td valign='top' class='tdBody' align='center'><nobr>1648507-5</td>
+						<td valign='top' class='tdBody' align='left'><nobr>DAIZILANE SOARES DE OLIVEIRA</td>
+						<td valign='top' class='tdBody' align='center' title='SUPERIOR DE TECNOLOGIA EM GESTÃO DA QUALIDADE'><nobr>EGRAD_GQ</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBody' align='center'><nobr>03/09/2016</td>
+						<td valign='top' class='tdBody' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>05/09/2016</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>01/09/2016</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 149,42</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 44,83</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>53</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1649392-5</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>FERNANDA PAULA BACELAR DE CASTRO OLIVER</td>
+						<td valign='top' class='tdBodyDef' align='center' title='SUPERIOR DE TECNOLOGIA EM GESTÃO DE RECURSOS HUMANOS'><nobr>EGRAD_GQ</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>14/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>14/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>12/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 119,53</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 35,86</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBody' align='center'>54</td>
+						<td valign='top' class='tdBody' align='center'><nobr>1649359-5</td>
+						<td valign='top' class='tdBody' align='left'><nobr>GUILHERME VAZ OLIVER</td>
+						<td valign='top' class='tdBody' align='center' title='SUPERIOR DE TECNOLOGIA EM GESTÃO DA QUALIDADE'><nobr>EGRAD_GQ</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBody' align='center'><nobr>14/09/2016</td>
+						<td valign='top' class='tdBody' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>14/09/2016</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>12/09/2016</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 149,42</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 44,83</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>55</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1647727-5</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>JUNIA MARCIA DE ALVARENGA</td>
+						<td valign='top' class='tdBodyDef' align='center' title='SUPERIOR DE TECNOLOGIA EM GESTÃO DA QUALIDADE'><nobr>EGRAD_GQ</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>23/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>23/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>19/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 149,42</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 44,83</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBody' align='center'>56</td>
+						<td valign='top' class='tdBody' align='center'><nobr>1648237-5</td>
+						<td valign='top' class='tdBody' align='left'><nobr>LUANNA MORAES OLIVEIRA</td>
+						<td valign='top' class='tdBody' align='center' title='SUPERIOR DE TECNOLOGIA EM GESTÃO DA QUALIDADE'><nobr>EGRAD_GQ</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBody' align='center'><nobr>31/08/2016</td>
+						<td valign='top' class='tdBody' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>31/08/2016</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>29/08/2016</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 119,53</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 35,86</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>57</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1648038-5</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>POLIANA CRISTIANE DE SOUZA MARQUES</td>
+						<td valign='top' class='tdBodyDef' align='center' title='SUPERIOR DE TECNOLOGIA EM GESTÃO DA QUALIDADE'><nobr>EGRAD_GQ</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>27/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>29/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>26/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 149,42</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 44,83</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBody' align='center'>58</td>
+						<td valign='top' class='tdBody' align='center'><nobr>1647901-5</td>
+						<td valign='top' class='tdBody' align='left'><nobr>JULIANA MOREIRA COSTA</td>
+						<td valign='top' class='tdBody' align='center' title='LICENCIATURA EM LETRAS PORTUGUÊS-INGLÊS'><nobr>EGRAD_LET</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBody' align='center'><nobr>25/08/2016</td>
+						<td valign='top' class='tdBody' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>25/08/2016</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>23/08/2016</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 188,55</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 56,57</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>59</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1649160-5</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ELVIS FERNANDES OLIVEIRA</td>
+						<td valign='top' class='tdBodyDef' align='center' title='SUPERIOR DE TECNOLOGIA EM LOGÍSTICA'><nobr>EGRAD_LOG</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>13/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>13/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>09/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 198,17</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 59,45</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBody' align='center'>60</td>
+						<td valign='top' class='tdBody' align='center'><nobr>1649144-5</td>
+						<td valign='top' class='tdBody' align='left'><nobr>HELOIZA FERREIRA DIAS</td>
+						<td valign='top' class='tdBody' align='center' title='SUPERIOR DE TECNOLOGIA EM LOGÍSTICA'><nobr>EGRAD_LOG</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBody' align='center'><nobr>13/09/2016</td>
+						<td valign='top' class='tdBody' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>13/09/2016</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>09/09/2016</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 198,17</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 59,45</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>61</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1647983-5</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ELANE DE JESUS CABRAL GOMES</td>
+						<td valign='top' class='tdBodyDef' align='center' title='SUPERIOR DE TECNOLOGIA EM MARKETING'><nobr>EGRAD_MKT</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>26/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>26/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>25/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 136,00</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 40,80</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBody' align='center'>62</td>
+						<td valign='top' class='tdBody' align='center'><nobr>1647726-5</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ANA CAROLINA DA SILVA ANDRADE</td>
+						<td valign='top' class='tdBody' align='center' title='GRADUAÇÃO EM PEDAGOGIA'><nobr>EGRAD_PED</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBody' align='center'><nobr>23/08/2016</td>
+						<td valign='top' class='tdBody' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>23/08/2016</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>19/08/2016</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 198,17</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 59,45</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>63</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1648607-5</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ANGELICA DE SOUZA FERREIRA CARNEIRO</td>
+						<td valign='top' class='tdBodyDef' align='center' title='GRADUAÇÃO EM PEDAGOGIA'><nobr>EGRAD_PED</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>06/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>06/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>02/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 198,17</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 59,45</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBody' align='center'>64</td>
+						<td valign='top' class='tdBody' align='center'><nobr>1649584-5</td>
+						<td valign='top' class='tdBody' align='left'><nobr>CASSIA ARAUJO DOS SANTOS FERREIRA</td>
+						<td valign='top' class='tdBody' align='center' title='GRADUAÇÃO EM ADMINISTRAÇÃO'><nobr>EGRAD_PED</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBody' align='center'><nobr>14/09/2016</td>
+						<td valign='top' class='tdBody' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>14/09/2016</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>12/09/2016</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 158,54</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 47,56</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>65</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1647729-5</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>DEBORA BARCELOS DIAS</td>
+						<td valign='top' class='tdBodyDef' align='center' title='GRADUAÇÃO EM PEDAGOGIA'><nobr>EGRAD_PED</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>23/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>23/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>19/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 198,17</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 59,45</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBody' align='center'>66</td>
+						<td valign='top' class='tdBody' align='center'><nobr>1648046-5</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ELAINE CRISTINA FERREIRA</td>
+						<td valign='top' class='tdBody' align='center' title='GRADUAÇÃO EM PEDAGOGIA'><nobr>EGRAD_PED</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBody' align='center'><nobr>27/08/2016</td>
+						<td valign='top' class='tdBody' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>29/08/2016</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>25/08/2016</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 198,17</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 59,45</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>67</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1648687-5</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>FLAVIA RODRIGUES DEIRÓ</td>
+						<td valign='top' class='tdBodyDef' align='center' title='GRADUAÇÃO EM PEDAGOGIA'><nobr>EGRAD_PED</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>07/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>08/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>05/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 198,17</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 59,45</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBody' align='center'>68</td>
+						<td valign='top' class='tdBody' align='center'><nobr>1647748-5</td>
+						<td valign='top' class='tdBody' align='left'><nobr>GILMARA DE SOUZA PEDRO</td>
+						<td valign='top' class='tdBody' align='center' title='GRADUAÇÃO EM PEDAGOGIA'><nobr>EGRAD_PED</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBody' align='center'><nobr>23/08/2016</td>
+						<td valign='top' class='tdBody' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>23/08/2016</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>19/08/2016</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 198,17</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 59,45</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>69</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1648233-5</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ISAMARA DAS DORES SILVA</td>
+						<td valign='top' class='tdBodyDef' align='center' title='GRADUAÇÃO EM PEDAGOGIA'><nobr>EGRAD_PED</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>31/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>31/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>29/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 198,17</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 59,45</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBody' align='center'>70</td>
+						<td valign='top' class='tdBody' align='center'><nobr>1648561-5</td>
+						<td valign='top' class='tdBody' align='left'><nobr>JAQUELINE FERREIRA SILVA</td>
+						<td valign='top' class='tdBody' align='center' title='GRADUAÇÃO EM PEDAGOGIA'><nobr>EGRAD_PED</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBody' align='center'><nobr>04/09/2016</td>
+						<td valign='top' class='tdBody' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>05/09/2016</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>03/09/2016</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 198,17</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 59,45</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>71</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1647746-5</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>LUCIA APARECIDA ROSA MORAIS</td>
+						<td valign='top' class='tdBodyDef' align='center' title='GRADUAÇÃO EM PEDAGOGIA'><nobr>EGRAD_PED</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>23/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>23/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>19/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 198,17</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 59,45</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBody' align='center'>72</td>
+						<td valign='top' class='tdBody' align='center'><nobr>1649413-5</td>
+						<td valign='top' class='tdBody' align='left'><nobr>MARIANA  DE ALMEIDA LEOCADIO</td>
+						<td valign='top' class='tdBody' align='center' title='SUPERIOR DE TECNOLOGIA EM GESTÃO DE RECURSOS HUMANOS'><nobr>EGRAD_PED</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBody' align='center'><nobr>14/09/2016</td>
+						<td valign='top' class='tdBody' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>14/09/2016</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>12/09/2016</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 198,17</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 59,45</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>73</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1648741-5</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ROSIMEIRE DA PIEDADE SOARES</td>
+						<td valign='top' class='tdBodyDef' align='center' title='GRADUAÇÃO EM PEDAGOGIA'><nobr>EGRAD_PED</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>07/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>08/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>05/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 198,17</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 59,45</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBody' align='center'>74</td>
+						<td valign='top' class='tdBody' align='center'><nobr>1647897-5</td>
+						<td valign='top' class='tdBody' align='left'><nobr>SILVANEY APARECIDA DE MORAES</td>
+						<td valign='top' class='tdBody' align='center' title='GRADUAÇÃO EM PEDAGOGIA'><nobr>EGRAD_PED</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBody' align='center'><nobr>25/08/2016</td>
+						<td valign='top' class='tdBody' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>25/08/2016</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>23/08/2016</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 198,17</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 59,45</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>75</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1649847-5</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ANGELA MARIA MOTA RAMOS</td>
+						<td valign='top' class='tdBodyDef' align='center' title='SUPERIOR DE TECNOLOGIA EM PROCESSOS GERENCIAIS'><nobr>EGRAD_PGER</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>17/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>19/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>15/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 198,17</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 59,45</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBody' align='center'>76</td>
+						<td valign='top' class='tdBody' align='center'><nobr>1647831-5</td>
+						<td valign='top' class='tdBody' align='left'><nobr>JAIR PASCOAL</td>
+						<td valign='top' class='tdBody' align='center' title='BACHARELADO EM SERVIÇO SOCIAL'><nobr>EGRAD_SER</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBody' align='center'><nobr>24/08/2016</td>
+						<td valign='top' class='tdBody' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>24/08/2016</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>22/08/2016</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 158,54</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 47,56</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>77</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1530427-5</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>MELQUIADES MOREIRA FRANÇA JUNIOR</td>
+						<td valign='top' class='tdBodyDef' align='center' title='BACHARELADO EM SERVIÇO SOCIAL'><nobr>EGRAD_SER</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>14/04/2015</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>2</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>12/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>12/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 280,75</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 84,23</td>
+				</tr>
+					 		</table>
+					 	</td>
+					</tr>
+					<!--
+					<tr> 
+						<td valign='top' class='tdBody' align='right' colspan='3'><b>VALOR NF</b></td>
+						<td valign='top' class='tdBody' align='right' width='10%'><b>5.189,19</b></td>
+					</tr>
+					<tr> 
+						<td valign='top' class='tdBody' align='right' colspan='3'><b>DESCONTOS</b></td>
+						<td valign='top' class='tdBody' align='right' width='10%'><b>0,00</b></td>
+					</tr>
+					-->
+					<tr> 
+						<td style='border-top:1px solid black; border-bottom:1px solid black' valign='top' class='tdBody' align='right' colspan='3'><b>VALOR REPASSE</b></td>
+						<td style='border-top:1px solid black; border-bottom:1px solid black; width:1%;' valign='top' class='tdBody' align='right'><b>5.189,19</b></td>
+					</tr>
+
+					<tr>
+					 	<td colspan='4' style='padding-top:10px;font-size:20px;font-weight:bold;'>RECEITA PÓS-GRADUAÇÃO</td>
+					</tr>
+					<tr>
+					 	<td colspan='4'>
+					 		<table width='100%' border='0' class='rRelatorio' cellspacing='0' cellpadding='0'>
+					 		
+
+				<tr>
+					<td width='1%' valign='top' class='tdHead' align='center'><nobr>&nbsp;</td>
+					<td width='10%' valign='top' class='tdHead' align='center'><nobr><b>ALUNO</b></td>
+					<td width='40%' valign='top' class='tdHead' align='left'><nobr><b>NOME</b></td>
+					<td width='10%' valign='top' class='tdHead' align='center'><nobr><b>CURSO</b></td>
+					<td width='20%' valign='top' class='tdHead' align='left'><nobr><b>POLO DO ALUNO</b></td>
+					<td width='10%' valign='top' class='tdHead' align='center'><nobr><b>DT. INGRESSO</b></td>
+					<td width='10%' valign='top' class='tdHead' align='center'><nobr><b>TIPO</b></td>
+					<td width='10%' valign='top' class='tdHead' align='center'><nobr><b>PARCELA</b></td>
+					<td width='10%' valign='top' class='tdHead' align='center'><nobr><b>DATA VENCIMENTO</b></td>
+					<td width='10%' valign='top' class='tdHead' align='center'><nobr><b>DATA PAGAMENTO</b></td>
+					<td width='10%' valign='top' class='tdHead' align='right'><nobr><b>VALOR PAGO </b></td>
+					<td width='10%' valign='top' class='tdHead' align='right'><nobr><b>VALOR REPASSE</b></td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>1</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1648753-4</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ANA MARIA GOMES NEVES FERNANDES</td>
+						<td valign='top' class='tdBodyDef' align='center' title='PÓS-GRADUAÇÃO "LATO-SENSU" EM ESPECIALIZAÇÃO EM EDUCAÇÃO INFANTIL E ANOS INICIAIS  DO ENSINO FUNDAMENTAL'><nobr>EPOS_EIEF</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>07/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>14/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>05/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 160,06</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 48,02</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBody' align='center'>2</td>
+						<td valign='top' class='tdBody' align='center'><nobr>1647677-4</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ROBERTO GERALDO FERREIRA</td>
+						<td valign='top' class='tdBody' align='center' title='PÓS-GRADUAÇÃO "LATO-SENSU" MBA EM GESTÃO DE PROJETOS'><nobr>EPOS_GPRO</td>
+						<td valign='top' class='tdBody' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBody' align='center'><nobr>20/08/2016</td>
+						<td valign='top' class='tdBody' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>10/10/2016</td>
+						<td valign='top' class='tdBody' align='center' style='border-left:1px solid black'><nobr>18/08/2016</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 177,40</td>
+						<td valign='top' class='tdBody' align='right' style='border-left:1px solid black'><nobr>R$ 53,22</td>
+				</tr>
+
+				<tr>
+						<td valign='top' class='tdBodyDef' align='center'>3</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>1647863-4</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ISABEL CRISTINA DE GUTEMBERG SANTANA</td>
+						<td valign='top' class='tdBodyDef' align='center' title='PÓS-GRADUAÇÃO "LATO-SENSU" EM METODOLOGIA DO ENSINO DE HISTÓRIA E GEOGRAFIA'><nobr>EPOS_HGEO</td>
+						<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+						<td valign='top' class='tdBodyDef' align='center'><nobr>24/08/2016</td>
+						<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>10/10/2016</td>
+						<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>02/09/2016</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 160,06</td>
+						<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 48,02</td>
+				</tr>
+					 		</table>
+					 	</td>
+					</tr>
+					<!--
+					<tr> 
+						<td valign='top' class='tdBody' align='right' colspan='3'><b>VALOR NF</b></td>
+						<td valign='top' class='tdBody' align='right' width='10%'><b>149,26</b></td>
+					</tr>
+					<tr> 
+						<td valign='top' class='tdBody' align='right' colspan='3'><b>DESCONTOS</b></td>
+						<td valign='top' class='tdBody' align='right' width='10%'><b>0,00</b></td>
+					</tr>
+					-->
+					<tr> 
+						<td style='border-top:1px solid black; border-bottom:1px solid black' valign='top' class='tdBody' align='right' colspan='3'><b>VALOR REPASSE</b></td>
+						<td style='border-top:1px solid black; border-bottom:1px solid black; width:1%;' valign='top' class='tdBody' align='right'><b>149,26</b></td>
+					</tr>
+
+					<tr>
+					 	<td colspan='4' style='padding-top:10px;font-size:20px;font-weight:bold;'>RECEITA UNIVERSO EAD</td>
+					</tr>
+					<tr>
+					 	<td colspan='4'>
+					 		<table width='100%' border='0' class='rRelatorio' cellspacing='0' cellpadding='0'>
+					 		
+
+				<tr>
+					<td width='1%' valign='top' class='tdHead' align='center'><nobr>&nbsp;</td>
+					<td width='10%' valign='top' class='tdHead' align='center'><nobr><b>CPF</b></td>
+					<td width='40%' valign='top' class='tdHead' align='left'><nobr><b>NOME</b></td>
+					<td width='10%' valign='top' class='tdHead' align='center'><nobr><b>CURSO</b></td>
+					<td width='10%' valign='top' class='tdHead' align='center'><nobr><b>TIPO CURSO</b></td>
+					<td width='20%' valign='top' class='tdHead' align='left'><nobr><b>POLO DO ALUNO</b></td>
+					<td width='10%' valign='top' class='tdHead' align='center'><nobr><b>TIPO</b></td>
+					<td width='10%' valign='top' class='tdHead' align='center'><nobr><b>CÓD. TRANSAÇÃO</b></td>
+					<td width='10%' valign='top' class='tdHead' align='center'><nobr><b>PARCELA</b></td>
+					<td width='10%' valign='top' class='tdHead' align='center'><nobr><b>DATA VENCIMENTO</b></td>
+					<td width='10%' valign='top' class='tdHead' align='center'><nobr><b>DATA PAGAMENTO</b></td>
+					<td width='10%' valign='top' class='tdHead' align='right'><nobr><b>VALOR PAGO</b></td>
+					<td width='10%' valign='top' class='tdHead' align='right'><nobr><b>VALOR REPASSE</b></td>
+				</tr>
+
+			<tr>
+					<td valign='top' class='tdBodyDef' align='center'>1</td>
+					<td valign='top' class='tdBodyDef' align='center'><nobr>05575040666</td>
+					<td valign='top' class='tdBodyDef' align='left'><nobr>Silvia Daniela Silva</td>
+					<td valign='top' class='tdBodyDef' align='center'><nobr>Pós-Graduação em Auditoria, Contabilidade e Perícia Contábil</td>
+					<td valign='top' class='tdBodyDef' align='center'><nobr>POS</td>
+					<td valign='top' class='tdBodyDef' align='left'><nobr>ITABIRA - MG</td>
+					<td valign='top' class='tdBodyDef' align='center'>Mensalidade</td>
+					<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>034F99E5-C48E-4538-83A0-08167F2E3C55</td>
+					<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>1</td>
+					<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>18/09/2016</td>
+					<td valign='top' class='tdBodyDef' align='center' style='border-left:1px solid black'><nobr>20/08/2016</td>
+					<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 193,22</td>
+					<td valign='top' class='tdBodyDef' align='right' style='border-left:1px solid black'><nobr>R$ 57,97</td>
+			</tr>
+					 		</table>
+					 	</td>
+					</tr>
+					<!--
+					<tr> 
+						<td valign='top' class='tdBody' align='right' colspan='3'><b>VALOR NF</b></td>
+						<td valign='top' class='tdBody' align='right' width='10%'><b>57,97</b></td>
+					</tr>
+					<tr> 
+						<td valign='top' class='tdBody' align='right' colspan='3'><b>DESCONTOS</b></td>
+						<td valign='top' class='tdBody' align='right' width='10%'><b>0,00</b></td>
+					</tr>
+					-->
+					<tr> 
+						<td style='border-top:1px solid black; border-bottom:1px solid black' valign='top' class='tdBody' align='right' colspan='3'><b>VALOR REPASSE</b></td>
+						<td style='border-top:1px solid black; border-bottom:1px solid black; width:1%;' valign='top' class='tdBody' align='right'><b>57,97</b></td>
+					</tr></tbody></table>
+					<table class="rRelatorio" border="0" cellspacing="0" cellpadding="0" width="100%">   		     
+					<tbody>
+					<tr>
+					 	<td colspan='4' style='padding-top:10px;font-size:20px;font-weight:bold;'>RESUMO</td>
+					</tr>
+					<tr> 
+						<td valign='top' class='tdBody' align='center' style='border-right:1px solid black;' colspan='1'><b>&nbsp;</b></td>
+						<td valign='top' class='tdBody' align='center' style='border-bottom:1px solid black; border-right:1px solid black; border-top:1px solid black;' colspan='2'><b>Receita de Graduação</b></td>
+						<td valign='top' class='tdBody' align='center' style='border-bottom:1px solid black; border-right:1px solid black; border-top:1px solid black;' colspan='2'><b>Receita de Pós-Graduação</b></td>
+						<td valign='top' class='tdBody' align='center' style='border-bottom:1px solid black; border-right:1px solid black; border-top:1px solid black;' colspan='2'><b>Receita do Universo EAD</b></td>
+					</tr>
+					<tr> 
+						<td valign='top' class='tdBody' align='center' style='border-bottom:1px solid black; border-right:1px solid black;' colspan='1'><b>&nbsp;</b></td>
+						<td valign='top' class='tdBody' align='center' style='border-bottom:1px solid black; border-right:1px solid black; background : #E2E2E2;' colspan='1'>VALOR PAGO</td>
+						<td valign='top' class='tdBody' align='center' style='border-bottom:1px solid black; border-right:1px solid black; background : #E2E2E2;' colspan='1'>REPASSE</td>
+						<td valign='top' class='tdBody' align='center' style='border-bottom:1px solid black; border-right:1px solid black; background : #E2E2E2;' colspan='1'>VALOR PAGO</td>
+						<td valign='top' class='tdBody' align='center' style='border-bottom:1px solid black; border-right:1px solid black; background : #E2E2E2;' colspan='1'>REPASSE</td>
+						<td valign='top' class='tdBody' align='center' style='border-bottom:1px solid black; border-right:1px solid black; background : #E2E2E2;' colspan='1'>VALOR PAGO</td>
+						<td valign='top' class='tdBody' align='center' style='border-bottom:1px solid black; border-right:1px solid black; background : #E2E2E2;' colspan='1'>REPASSE</td>
+					</tr>
+					<tr>
+						<td valign='top' class='tdBody' align='center' style='border-bottom:1px solid black; border-right:1px solid black; border-left:1px solid black; background : #E2E2E2;' colspan='1'>MENSALIDADE</td>
+						<td valign='top' class='tdBody' align='center' style='border-bottom:1px solid black; border-right:1px solid black;' colspan='1'>17.297,08</td>
+						<td valign='top' class='tdBody' align='center' style='border-bottom:1px solid black; border-right:1px solid black;' colspan='1'>5.189,19</td>
+						<td valign='top' class='tdBody' align='center' style='border-bottom:1px solid black; border-right:1px solid black;' colspan='1'>497,52</td>
+						<td valign='top' class='tdBody' align='center' style='border-bottom:1px solid black; border-right:1px solid black;' colspan='1'>149,26</td>
+						<td valign='top' class='tdBody' align='center' style='border-bottom:1px solid black; border-right:1px solid black;' colspan='1'>193,22</td>
+						<td valign='top' class='tdBody' align='center' style='border-bottom:1px solid black; border-right:1px solid black;' colspan='1'>57,97</td>
+					</tr>
+					<tr>
+						<td valign='top' class='tdBody' align='center' style='border-bottom:1px solid black; border-right:1px solid black; border-left:1px solid black; background : #E2E2E2;' colspan='1'>SERVIÇO</td>
+						<td valign='top' class='tdBody' align='center' style='border-bottom:1px solid black; border-right:1px solid black;' colspan='1'>0,00</td>
+						<td valign='top' class='tdBody' align='center' style='border-bottom:1px solid black; border-right:1px solid black;' colspan='1'>0,00</td>
+						<td valign='top' class='tdBody' align='center' style='border-bottom:1px solid black; border-right:1px solid black;' colspan='1'>0,00</td>
+						<td valign='top' class='tdBody' align='center' style='border-bottom:1px solid black; border-right:1px solid black;' colspan='1'>0,00</td>
+						<td valign='top' class='tdBody' align='center' style='border-bottom:1px solid black; border-right:1px solid black;' colspan='1'>0,00</td>
+						<td valign='top' class='tdBody' align='center' style='border-bottom:1px solid black; border-right:1px solid black;' colspan='1'>0,00</td>
+					</tr>
+					<tr>
+						<td valign='top' class='tdBody' align='center' style='border-bottom:1px solid black; border-right:1px solid black; border-left:1px solid black; background : #E2E2E2;' colspan='1'>ACORDO</td>
+						<td valign='top' class='tdBody' align='center' style='border-bottom:1px solid black; border-right:1px solid black;' colspan='1'>0,00</td>
+						<td valign='top' class='tdBody' align='center' style='border-bottom:1px solid black; border-right:1px solid black;' colspan='1'>0,00</td>
+						<td valign='top' class='tdBody' align='center' style='border-bottom:1px solid black; border-right:1px solid black;' colspan='1'>0,00</td>
+						<td valign='top' class='tdBody' align='center' style='border-bottom:1px solid black; border-right:1px solid black;' colspan='1'>0,00</td>
+						<td valign='top' class='tdBody' align='center' style='border-bottom:1px solid black; border-right:1px solid black;' colspan='1'>0,00</td>
+						<td valign='top' class='tdBody' align='center' style='border-bottom:1px solid black; border-right:1px solid black;' colspan='1'>0,00</td>
+					</tr>
+					<tr>
+						<td valign='top' class='tdBody' align='center' style='border-bottom:1px solid black; border-right:1px solid black; border-left:1px solid black; background : #E2E2E2;' colspan='1'><b>TOTAL</b></td>
+						<td valign='top' class='tdBody' align='center' style='border-bottom:1px solid black; border-right:1px solid black;' colspan='1'><b>17.297,08</b></td>
+						<td valign='top' class='tdBody' align='center' style='border-bottom:1px solid black; border-right:1px solid black;' colspan='1'><b>5.189,19</b></td>
+						<td valign='top' class='tdBody' align='center' style='border-bottom:1px solid black; border-right:1px solid black;' colspan='1'><b>497,52</b></td>
+						<td valign='top' class='tdBody' align='center' style='border-bottom:1px solid black; border-right:1px solid black;' colspan='1'><b>149,26</b></td>
+						<td valign='top' class='tdBody' align='center' style='border-bottom:1px solid black; border-right:1px solid black;' colspan='1'><b>193,22</b></td>
+						<td valign='top' class='tdBody' align='center' style='border-bottom:1px solid black; border-right:1px solid black;' colspan='1'><b>57,97</b></td>
+					</tr>
+					</tbody>
+					</table>
+				<br>
+				<table class="rRelatorio" border="0" cellspacing="0" cellpadding="0" width="100%">   		     
+					<tbody>
+
+					<tr> 
+						<td valign='top' class='tdBody' align='right'><b>TOTAL NF</b></td>
+						<td valign='top' class='tdBody' align='right' style='width:1%;'><nobr>R$ <b>5.396,42</nobr></b></td>
+					</tr>
+
+					<tr> 
+						<td valign='top' class='tdBody' align='right'><b>TOTAL DESCONTOS</b></td>
+						<td valign='top' class='tdBody' align='right' style='width:1%;'><nobr>R$ <b>0,00</nobr></b></td>
+					</tr>
+
+					<tr> 
+						<td valign='top' class='tdBody' align='right'><b>TOTAL VALOR LÍQUIDO</b></td>
+						<td valign='top' class='tdBody' align='right' style='width:1%;'><nobr>R$ <b>5.396,42</nobr></b></td>
+					</tr></tbody>
+				</table>
+				<br>	    </tbody>
+
+	    <tfoot>
+	    <tr>
+	      	<td colspan="4">
+				<table width="100%" cellpadding="0" cellspacing="0" style="padding-top:10px;">
+					<tr> 
+						<td class="tdFoot" colspan="3" align="left" valign="top">
+							Emissão: 06/08/2018 - 20:09:36							<br>Gerado em: 01 segundos						</td>
+						<td class="tdFoot" colspan="3" align="right" valign="top">
+							Departamento de Tecnologia da Informação - EAD<br>
+							44 3027-6363 Ramal 6390
+						</td>
+					</tr>
+	      		</table>
+	      	</td>
+	    </tr>
+	    </tfoot>	
+  		</table>
+  	<!-- FIM DA TABELA PRINCIPAL DO RELATÓRIO -->	
+</div> 
+
+</body>
+</html>

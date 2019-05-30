@@ -1,0 +1,406 @@
+
+<style>
+	*{
+		font-family : trebuchet ms;
+		font-size:11px;	
+	}	
+	
+	table.rCabecalho{
+		
+	}
+	
+	table.rParamentro{
+		margin-top:10px;
+		margin-bottom:10px;
+		border:1px solid black;
+		padding:8px;
+	}
+	
+	table.rDetalhes {
+		padding-left:20px;
+		padding-bottom:10px;
+	}			
+	
+	table.rRelatorio{
+	}
+
+	td.tdHead{
+		border-bottom: solid 1px #000000;	
+		font-weight:bold;
+		padding:3px;
+		color:#000000;		
+	}	
+	
+	td.tdBody{
+		background : #FFFFFF;
+		padding:3px;
+		line-height:25px;
+	}
+	
+	td.tdBodyDef{
+		background : #E2E2E2;
+		padding:3px;
+		line-height:25px;
+	}
+
+	td.tdFoot{
+		border-top: solid 2px #000000;
+		font-weight:normal;
+		padding-top:5px;
+		color:#000000;
+	}
+	
+	hr.rDivisoria{
+		width: 100%; 
+		color: #000000; 
+		background:#000000; 
+		height: 1px; 		
+	}
+
+	td.Destaque {
+		background : #CCCCCC;
+		padding:3px;
+		line-height:30px;
+		font-size:14px;
+	}
+}
+
+</style>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+<body>
+
+<div id="conteudo" >
+	
+	<table class="rCabecalho" cellspacing="0" cellpadding="0" width="100%">
+	 <tr> 
+        <td width="25%" align="left">
+        	        </td>
+        <td width="75%" align='right' style='font-size:20px;font-weight:bold;'>
+			RELATÓRIO DE INADIMPLENTES		</td>        
+      </tr>
+	</table>
+	
+	<table class="rParamentro" style="display:" cellspacing="0" cellpadding="0" width="100%" border="0">
+		<tr> 
+			<td width="100%" align='left'>
+				<b>PARÂMETROS:&nbsp;&nbsp;</b> 
+			<u>MODALIDADE:</u>&nbsp;<i>Graduação</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>CURSO:</u>&nbsp;<i>*</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>POLO:</u>&nbsp;<i>403,508,542,543,549,565</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>ANO:</u>&nbsp;<i>2018</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>SEMESTRE:</u>&nbsp;<i>*</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>ANO REF.:</u>&nbsp;<i>2016</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>MÊS REF.:</u>&nbsp;<i>12</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>INGRESSO:</u>&nbsp;<i>*</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>ATIVO:</u>&nbsp;<i>NÃO</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>CANCELADO:</u>&nbsp;<i>NÃO</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>CONCLUIDO:</u>&nbsp;<i>NÃO</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>MATRICULADO:</u>&nbsp;<i>*</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			</td>
+		</tr>     
+	</table>
+	
+	<hr class="rDivisoria" noshade >
+
+	<table class="rDetalhes" style="display:" cellspacing="0" cellpadding="0" width="100%" border="0">
+		<tr> 
+							<td style='font-weight:bold' width='1%' align='right'><nobr>UNIDADE:&nbsp;&nbsp;</td>
+							<td width='80%' align='left'>UNICESUMAR - CENTRO UNIVERSITÁRIO CESUMAR</td>
+						</tr><tr> 
+							<td style='font-weight:bold' width='1%' align='right'><nobr>INSTITUIÇÃO:&nbsp;&nbsp;</td>
+							<td width='80%' align='left'>EAD - EDUCAÇÃO A DISTÂNCIA</td>
+						</tr><tr> 
+							<td style='font-weight:bold' width='1%' align='right'><nobr>POLO:&nbsp;&nbsp;</td>
+							<td width='80%' align='left'>ITABIRA - MG, IPATINGA - MG, MARIANA - MG, JOÃO MONLEVADE - MG, CORONEL FABRICIANO - MG, CONCEIÇÃO DO MATO DENTRO - MG</td>
+						</tr>	</table>
+	
+	<hr class="rDivisoria" noshade >
+
+	<table class="rRelatorio" cellspacing="0" cellpadding="0" width="100%">   		     
+	  	<thead>
+		  <tr> 
+	        <td class="tdHead" width="1%"  align="center"><nobr>&nbsp;</td>
+	        <td class="tdHead" width="5%"  align="center"><nobr>ALUNO</td>
+	        <td class="tdHead" width="15%" align="left"	>NOME</td>
+	        <td class="tdHead" width="5%" align="center"><nobr>STATUS</td>
+	        <td class="tdHead" width="5%" align="center"><nobr>SITUAÇÃO</td>  
+	        <td class="tdHead" width="4%"  align="center"><nobr>CURSO</td>    
+	        <td class="tdHead" width="5%" align="left"	><nobr>TELEFONE</td>
+	        <td class="tdHead" width="5%" align="left"	><nobr>CELULAR</td>
+	        <td class="tdHead" width="5%" align="left"	>EMAIL</td>
+	        <td class="tdHead" width="5%" align="left"	><nobr>INGRESSO</td>
+	        <!--  <td class="tdHead" width="10%" align="left"	><nobr>MÓDULO</td>-->
+	        <td class="tdHead" width="5%" align="center">ULTIMO ACESSO AVA</td>	        
+	        <td class="tdHead" width="5%" align="center">DIAS ULT. ACESSO</td>
+	        <td class="tdHead" width="5%" align="left"	><nobr>MENSALIDADE(s)</td>
+	        <td class="tdHead" width="5%" align="left"	><nobr>ACORDO(s)</td>
+	        <td class="tdHead" width="5%" align="center"	>VALOR MENSALIDADE(s)</td>
+	        <td class="tdHead" width="5%" align="center"	>VALOR ACORDO(s)</td>
+	      </tr>
+	    </thead>
+	    
+	    <tbody>
+	    
+	    <tr> 
+						<td valign='top' class='tdBody' align='center'>	<nobr>1</td>
+						<td valign='top' class='tdBody' align='center'>	1653125-5</td>
+						<td valign='top' class='tdBody' align='left'>	AELTON LUCAS</td>
+						<td valign='top' class='tdBody' align='center'>	Ativo</td>			
+						<td valign='top' class='tdBody' align='center'>	<nobr>SEM MATR.</td>
+						<td valign='top' class='tdBody' align='center'>	<nobr>EGRAD_MKT</td>
+						<td valign='top' class='tdBody' align='left'>	<nobr>3398725-6712</td>
+						<td valign='top' class='tdBody' align='left'>	<nobr>33-98725-6712</td>
+						<td valign='top' class='tdBody' align='left'>	aeltonlucas19@gmail.com</td>						
+						<td valign='top' class='tdBody' align='left'>	<nobr>2016-10</td>
+						<!--<td valign='top' class='tdBody' align='left'>	<nobr>54</td>-->
+						<td valign='top' class='tdBody' align='center'>	23/05/2018 15:44:19</td>
+						<td valign='top' class='tdBody' align='center'>	-75</td>
+						<td valign='top' class='tdBody' align='left' style='border-left:1px solid black'>12/2016<br/>1/2017<br/>2/2017<br/>3/2017<br/>4/2017<br/>	</td>							
+						<td valign='top' class='tdBody' align='left' style='border-left:1px solid black;border-right:1px solid black;'>	</td>
+						<td valign='top' class='tdBody' align='right'><nobr>R$ 1.077,62</td>
+						<td valign='top' class='tdBody' align='right'><nobr>R$ 0,00</td>
+						
+					</tr><tr> 
+						<td valign='top' class='tdBodyDef' align='center'>	<nobr>2</td>
+						<td valign='top' class='tdBodyDef' align='center'>	1647828-5</td>
+						<td valign='top' class='tdBodyDef' align='left'>	AFONSO NALDIMAR PEDRO</td>
+						<td valign='top' class='tdBodyDef' align='center'>	Cancelado</td>			
+						<td valign='top' class='tdBodyDef' align='center'>	<nobr>SEM MATR.</td>
+						<td valign='top' class='tdBodyDef' align='center'>	<nobr>EGRAD_GAS</td>
+						<td valign='top' class='tdBodyDef' align='left'>	<nobr></td>
+						<td valign='top' class='tdBodyDef' align='left'>	<nobr>31-988199806</td>
+						<td valign='top' class='tdBodyDef' align='left'>	fonsincooker@gmail.com</td>						
+						<td valign='top' class='tdBodyDef' align='left'>	<nobr>2016-10</td>
+						<!--<td valign='top' class='tdBodyDef' align='left'>	<nobr>54</td>-->
+						<td valign='top' class='tdBodyDef' align='center'>	08/02/2017 10:19:28</td>
+						<td valign='top' class='tdBodyDef' align='center'>	544</td>
+						<td valign='top' class='tdBodyDef' align='left' style='border-left:1px solid black'>12/2016<br/>1/2017<br/>	</td>							
+						<td valign='top' class='tdBodyDef' align='left' style='border-left:1px solid black;border-right:1px solid black;'>	</td>
+						<td valign='top' class='tdBodyDef' align='right'><nobr>R$ 640,20</td>
+						<td valign='top' class='tdBodyDef' align='right'><nobr>R$ 0,00</td>
+						
+					</tr><tr> 
+						<td valign='top' class='tdBody' align='center'>	<nobr>3</td>
+						<td valign='top' class='tdBody' align='center'>	1648255-5</td>
+						<td valign='top' class='tdBody' align='left'>	BARBARA AMANDA TIANE DOS ANJOS</td>
+						<td valign='top' class='tdBody' align='center'>	Cancelado</td>			
+						<td valign='top' class='tdBody' align='center'>	<nobr>SEM MATR.</td>
+						<td valign='top' class='tdBody' align='center'>	<nobr>EGRAD_GAS</td>
+						<td valign='top' class='tdBody' align='left'>	<nobr>31985684421</td>
+						<td valign='top' class='tdBody' align='left'>	<nobr>31-985684421</td>
+						<td valign='top' class='tdBody' align='left'>	tyanedosanjos@gmail.com</td>						
+						<td valign='top' class='tdBody' align='left'>	<nobr>2016-10</td>
+						<!--<td valign='top' class='tdBody' align='left'>	<nobr>54</td>-->
+						<td valign='top' class='tdBody' align='center'>	06/02/2017 15:29:40</td>
+						<td valign='top' class='tdBody' align='center'>	546</td>
+						<td valign='top' class='tdBody' align='left' style='border-left:1px solid black'>12/2016<br/>1/2017<br/>	</td>							
+						<td valign='top' class='tdBody' align='left' style='border-left:1px solid black;border-right:1px solid black;'>	</td>
+						<td valign='top' class='tdBody' align='right'><nobr>R$ 640,20</td>
+						<td valign='top' class='tdBody' align='right'><nobr>R$ 0,00</td>
+						
+					</tr><tr> 
+						<td valign='top' class='tdBodyDef' align='center'>	<nobr>4</td>
+						<td valign='top' class='tdBodyDef' align='center'>	1647851-5</td>
+						<td valign='top' class='tdBodyDef' align='left'>	CHALISON MARQUES DE SA</td>
+						<td valign='top' class='tdBodyDef' align='center'>	Cancelado</td>			
+						<td valign='top' class='tdBodyDef' align='center'>	<nobr>SEM MATR.</td>
+						<td valign='top' class='tdBodyDef' align='center'>	<nobr>EGRAD_EPROD</td>
+						<td valign='top' class='tdBodyDef' align='left'>	<nobr>31995528885</td>
+						<td valign='top' class='tdBodyDef' align='left'>	<nobr>988701994</td>
+						<td valign='top' class='tdBodyDef' align='left'>	chalisonmarques@yahoo.com.br</td>						
+						<td valign='top' class='tdBodyDef' align='left'>	<nobr>2016-10</td>
+						<!--<td valign='top' class='tdBodyDef' align='left'>	<nobr>54</td>-->
+						<td valign='top' class='tdBodyDef' align='center'>	19/03/2017 12:21:55</td>
+						<td valign='top' class='tdBodyDef' align='center'>	505</td>
+						<td valign='top' class='tdBodyDef' align='left' style='border-left:1px solid black'>12/2016<br/>1/2017<br/>2/2017<br/>	</td>							
+						<td valign='top' class='tdBodyDef' align='left' style='border-left:1px solid black;border-right:1px solid black;'>	</td>
+						<td valign='top' class='tdBodyDef' align='right'><nobr>R$ 960,30</td>
+						<td valign='top' class='tdBodyDef' align='right'><nobr>R$ 0,00</td>
+						
+					</tr><tr> 
+						<td valign='top' class='tdBody' align='center'>	<nobr>5</td>
+						<td valign='top' class='tdBody' align='center'>	1648507-5</td>
+						<td valign='top' class='tdBody' align='left'>	DAIZILANE SOARES DE OLIVEIRA</td>
+						<td valign='top' class='tdBody' align='center'>	Ativo</td>			
+						<td valign='top' class='tdBody' align='center'>	<nobr>SEM MATR.</td>
+						<td valign='top' class='tdBody' align='center'>	<nobr>EGRAD_GQ</td>
+						<td valign='top' class='tdBody' align='left'>	<nobr>31986122761</td>
+						<td valign='top' class='tdBody' align='left'>	<nobr>31-986122761</td>
+						<td valign='top' class='tdBody' align='left'>	daizisoares@hotmail.com</td>						
+						<td valign='top' class='tdBody' align='left'>	<nobr>2016-10</td>
+						<!--<td valign='top' class='tdBody' align='left'>	<nobr>54</td>-->
+						<td valign='top' class='tdBody' align='center'>	25/10/2016 16:29:21</td>
+						<td valign='top' class='tdBody' align='center'>	650</td>
+						<td valign='top' class='tdBody' align='left' style='border-left:1px solid black'>12/2016<br/>1/2017<br/>2/2017<br/>3/2017<br/>4/2017<br/>	</td>							
+						<td valign='top' class='tdBody' align='left' style='border-left:1px solid black;border-right:1px solid black;'>	</td>
+						<td valign='top' class='tdBody' align='right'><nobr>R$ 830,10</td>
+						<td valign='top' class='tdBody' align='right'><nobr>R$ 0,00</td>
+						
+					</tr><tr> 
+						<td valign='top' class='tdBodyDef' align='center'>	<nobr>6</td>
+						<td valign='top' class='tdBodyDef' align='center'>	1627711-5</td>
+						<td valign='top' class='tdBodyDef' align='left'>	DARLAN DE CASTRO ROSA</td>
+						<td valign='top' class='tdBodyDef' align='center'>	Ativo</td>			
+						<td valign='top' class='tdBodyDef' align='center'>	<nobr>SEM MATR.</td>
+						<td valign='top' class='tdBodyDef' align='center'>	<nobr>EGRAD_ADSIS</td>
+						<td valign='top' class='tdBodyDef' align='left'>	<nobr>31988954227</td>
+						<td valign='top' class='tdBodyDef' align='left'>	<nobr>31-988954227</td>
+						<td valign='top' class='tdBodyDef' align='left'>	dc-rosa@uol.com.br</td>						
+						<td valign='top' class='tdBodyDef' align='left'>	<nobr>2016-02</td>
+						<!--<td valign='top' class='tdBodyDef' align='left'>	<nobr>51</td>-->
+						<td valign='top' class='tdBodyDef' align='center'>	05/06/2017 16:40:41</td>
+						<td valign='top' class='tdBodyDef' align='center'>	427</td>
+						<td valign='top' class='tdBodyDef' align='left' style='border-left:1px solid black'>3/2016<br/>9/2016<br/>10/2016<br/>11/2016<br/>12/2016<br/>	</td>							
+						<td valign='top' class='tdBodyDef' align='left' style='border-left:1px solid black;border-right:1px solid black;'>	</td>
+						<td valign='top' class='tdBodyDef' align='right'><nobr>R$ 1.834,94</td>
+						<td valign='top' class='tdBodyDef' align='right'><nobr>R$ 0,00</td>
+						
+					</tr><tr> 
+						<td valign='top' class='tdBody' align='center'>	<nobr>7</td>
+						<td valign='top' class='tdBody' align='center'>	1653267-5</td>
+						<td valign='top' class='tdBody' align='left'>	DIJAVAM ELDIS SILVA</td>
+						<td valign='top' class='tdBody' align='center'>	Ativo</td>			
+						<td valign='top' class='tdBody' align='center'>	<nobr>SEM MATR.</td>
+						<td valign='top' class='tdBody' align='center'>	<nobr>EGRAD_EDU</td>
+						<td valign='top' class='tdBody' align='left'>	<nobr>3185907392</td>
+						<td valign='top' class='tdBody' align='left'>	<nobr>31-85907392</td>
+						<td valign='top' class='tdBody' align='left'>	personaldijavam@gmail.com</td>						
+						<td valign='top' class='tdBody' align='left'>	<nobr>2016-10</td>
+						<!--<td valign='top' class='tdBody' align='left'>	<nobr>54</td>-->
+						<td valign='top' class='tdBody' align='center'>	10/05/2017 19:32:16</td>
+						<td valign='top' class='tdBody' align='center'>	453</td>
+						<td valign='top' class='tdBody' align='left' style='border-left:1px solid black'>12/2016<br/>1/2017<br/>2/2017<br/>3/2017<br/>4/2017<br/>	</td>							
+						<td valign='top' class='tdBody' align='left' style='border-left:1px solid black;border-right:1px solid black;'>	</td>
+						<td valign='top' class='tdBody' align='right'><nobr>R$ 1.133,35</td>
+						<td valign='top' class='tdBody' align='right'><nobr>R$ 0,00</td>
+						
+					</tr><tr> 
+						<td valign='top' class='tdBodyDef' align='center'>	<nobr>8</td>
+						<td valign='top' class='tdBodyDef' align='center'>	1653371-5</td>
+						<td valign='top' class='tdBodyDef' align='left'>	JADE HELENA OLIVEIRA SENA</td>
+						<td valign='top' class='tdBodyDef' align='center'>	Ativo</td>			
+						<td valign='top' class='tdBodyDef' align='center'>	<nobr>SEM MATR.</td>
+						<td valign='top' class='tdBodyDef' align='center'>	<nobr>EGRAD_EPROD</td>
+						<td valign='top' class='tdBodyDef' align='left'>	<nobr>31989655605</td>
+						<td valign='top' class='tdBodyDef' align='left'>	<nobr>31-989655605</td>
+						<td valign='top' class='tdBodyDef' align='left'>	jadesena.pessoal@gmail.com</td>						
+						<td valign='top' class='tdBodyDef' align='left'>	<nobr>2016-10</td>
+						<!--<td valign='top' class='tdBodyDef' align='left'>	<nobr>54</td>-->
+						<td valign='top' class='tdBodyDef' align='center'>	Nunca Acessou</td>
+						<td valign='top' class='tdBodyDef' align='center'>	</td>
+						<td valign='top' class='tdBodyDef' align='left' style='border-left:1px solid black'>12/2016<br/>1/2017<br/>2/2017<br/>3/2017<br/>4/2017<br/>	</td>							
+						<td valign='top' class='tdBodyDef' align='left' style='border-left:1px solid black;border-right:1px solid black;'>	</td>
+						<td valign='top' class='tdBodyDef' align='right'><nobr>R$ 1.600,50</td>
+						<td valign='top' class='tdBodyDef' align='right'><nobr>R$ 0,00</td>
+						
+					</tr><tr> 
+						<td valign='top' class='tdBody' align='center'>	<nobr>9</td>
+						<td valign='top' class='tdBody' align='center'>	1653139-5</td>
+						<td valign='top' class='tdBody' align='left'>	JOICY ALCANTARA PAIVA</td>
+						<td valign='top' class='tdBody' align='center'>	Ativo</td>			
+						<td valign='top' class='tdBody' align='center'>	<nobr>SEM MATR.</td>
+						<td valign='top' class='tdBody' align='center'>	<nobr>EGRAD_EDU</td>
+						<td valign='top' class='tdBody' align='left'>	<nobr>3138344761</td>
+						<td valign='top' class='tdBody' align='left'>	<nobr>31-985532505</td>
+						<td valign='top' class='tdBody' align='left'>	joicypaiva12@gmail.com</td>						
+						<td valign='top' class='tdBody' align='left'>	<nobr>2016-10</td>
+						<!--<td valign='top' class='tdBody' align='left'>	<nobr>54</td>-->
+						<td valign='top' class='tdBody' align='center'>	01/11/2016 12:28:17</td>
+						<td valign='top' class='tdBody' align='center'>	643</td>
+						<td valign='top' class='tdBody' align='left' style='border-left:1px solid black'>12/2016<br/>1/2017<br/>2/2017<br/>3/2017<br/>4/2017<br/>	</td>							
+						<td valign='top' class='tdBody' align='left' style='border-left:1px solid black;border-right:1px solid black;'>	</td>
+						<td valign='top' class='tdBody' align='right'><nobr>R$ 1.133,35</td>
+						<td valign='top' class='tdBody' align='right'><nobr>R$ 0,00</td>
+						
+					</tr><tr> 
+						<td valign='top' class='tdBodyDef' align='center'>	<nobr>10</td>
+						<td valign='top' class='tdBodyDef' align='center'>	1647977-5</td>
+						<td valign='top' class='tdBodyDef' align='left'>	MARCOS ANTONIO VAZ JUNIOR</td>
+						<td valign='top' class='tdBodyDef' align='center'>	Ativo</td>			
+						<td valign='top' class='tdBodyDef' align='center'>	<nobr>SEM MATR.</td>
+						<td valign='top' class='tdBodyDef' align='center'>	<nobr>EGRAD_ADM</td>
+						<td valign='top' class='tdBodyDef' align='left'>	<nobr>3138349155</td>
+						<td valign='top' class='tdBodyDef' align='left'>	<nobr>31-98758-5966</td>
+						<td valign='top' class='tdBodyDef' align='left'>	marcosantoniovazjunior@yahoo.com.br</td>						
+						<td valign='top' class='tdBodyDef' align='left'>	<nobr>2016-10</td>
+						<!--<td valign='top' class='tdBodyDef' align='left'>	<nobr>54</td>-->
+						<td valign='top' class='tdBodyDef' align='center'>	14/12/2016 19:35:32</td>
+						<td valign='top' class='tdBodyDef' align='center'>	600</td>
+						<td valign='top' class='tdBodyDef' align='left' style='border-left:1px solid black'>12/2016<br/>1/2017<br/>2/2017<br/>3/2017<br/>4/2017<br/>	</td>							
+						<td valign='top' class='tdBodyDef' align='left' style='border-left:1px solid black;border-right:1px solid black;'>	</td>
+						<td valign='top' class='tdBodyDef' align='right'><nobr>R$ 1.151,60</td>
+						<td valign='top' class='tdBodyDef' align='right'><nobr>R$ 0,00</td>
+						
+					</tr><tr> 
+						<td valign='top' class='tdBody' align='center'>	<nobr>11</td>
+						<td valign='top' class='tdBody' align='center'>	1647629-5</td>
+						<td valign='top' class='tdBody' align='left'>	MARIA DA CONCEICAO DA SILVA</td>
+						<td valign='top' class='tdBody' align='center'>	Ativo</td>			
+						<td valign='top' class='tdBody' align='center'>	<nobr>SEM MATR.</td>
+						<td valign='top' class='tdBody' align='center'>	<nobr>EGRAD_ADM</td>
+						<td valign='top' class='tdBody' align='left'>	<nobr>3138314929</td>
+						<td valign='top' class='tdBody' align='left'>	<nobr>31-987753370</td>
+						<td valign='top' class='tdBody' align='left'>	mconsilva@hotmail.com</td>						
+						<td valign='top' class='tdBody' align='left'>	<nobr>2016-10</td>
+						<!--<td valign='top' class='tdBody' align='left'>	<nobr>54</td>-->
+						<td valign='top' class='tdBody' align='center'>	07/12/2016 23:15:28</td>
+						<td valign='top' class='tdBody' align='center'>	607</td>
+						<td valign='top' class='tdBody' align='left' style='border-left:1px solid black'>12/2016<br/>1/2017<br/>2/2017<br/>3/2017<br/>4/2017<br/>	</td>							
+						<td valign='top' class='tdBody' align='left' style='border-left:1px solid black;border-right:1px solid black;'>	</td>
+						<td valign='top' class='tdBody' align='right'><nobr>R$ 1.151,60</td>
+						<td valign='top' class='tdBody' align='right'><nobr>R$ 0,00</td>
+						
+					</tr><tr> 
+						<td valign='top' class='tdBodyDef' align='center'>	<nobr>12</td>
+						<td valign='top' class='tdBodyDef' align='center'>	1648578-5</td>
+						<td valign='top' class='tdBodyDef' align='left'>	RAFAELA TOLENTINO SILVA</td>
+						<td valign='top' class='tdBodyDef' align='center'>	Ativo</td>			
+						<td valign='top' class='tdBodyDef' align='center'>	<nobr>SEM MATR.</td>
+						<td valign='top' class='tdBodyDef' align='center'>	<nobr>EGRAD_ADM</td>
+						<td valign='top' class='tdBodyDef' align='left'>	<nobr>31975449723</td>
+						<td valign='top' class='tdBodyDef' align='left'>	<nobr>31-975449723</td>
+						<td valign='top' class='tdBodyDef' align='left'>	rafaelasi1997@gmail.com</td>						
+						<td valign='top' class='tdBodyDef' align='left'>	<nobr>2016-10</td>
+						<!--<td valign='top' class='tdBodyDef' align='left'>	<nobr>54</td>-->
+						<td valign='top' class='tdBodyDef' align='center'>	07/08/2017 19:03:03</td>
+						<td valign='top' class='tdBodyDef' align='center'>	364</td>
+						<td valign='top' class='tdBodyDef' align='left' style='border-left:1px solid black'>12/2016<br/>1/2017<br/>2/2017<br/>	</td>							
+						<td valign='top' class='tdBodyDef' align='left' style='border-left:1px solid black;border-right:1px solid black;'>	</td>
+						<td valign='top' class='tdBodyDef' align='right'><nobr>R$ 853,20</td>
+						<td valign='top' class='tdBodyDef' align='right'><nobr>R$ 0,00</td>
+						
+					</tr><tr> 
+						<td valign='top' class='tdBody' align='center'>	<nobr>13</td>
+						<td valign='top' class='tdBody' align='center'>	1653242-5</td>
+						<td valign='top' class='tdBody' align='left'>	ROGER MAYCON SOARES  FRANCISCO</td>
+						<td valign='top' class='tdBody' align='center'>	Ativo</td>			
+						<td valign='top' class='tdBody' align='center'>	<nobr>SEM MATR.</td>
+						<td valign='top' class='tdBody' align='center'>	<nobr>EGRAD_EDU</td>
+						<td valign='top' class='tdBody' align='left'>	<nobr></td>
+						<td valign='top' class='tdBody' align='left'>	<nobr>31-991783344</td>
+						<td valign='top' class='tdBody' align='left'>	mayconsoares@outlook.com</td>						
+						<td valign='top' class='tdBody' align='left'>	<nobr>2016-10</td>
+						<!--<td valign='top' class='tdBody' align='left'>	<nobr>54</td>-->
+						<td valign='top' class='tdBody' align='center'>	17/11/2016 18:37:34</td>
+						<td valign='top' class='tdBody' align='center'>	627</td>
+						<td valign='top' class='tdBody' align='left' style='border-left:1px solid black'>12/2016<br/>1/2017<br/>2/2017<br/>3/2017<br/>4/2017<br/>	</td>							
+						<td valign='top' class='tdBody' align='left' style='border-left:1px solid black;border-right:1px solid black;'>	</td>
+						<td valign='top' class='tdBody' align='right'><nobr>R$ 1.133,35</td>
+						<td valign='top' class='tdBody' align='right'><nobr>R$ 0,00</td>
+						
+					</tr><tr> 
+						<td valign='top' class='tdBody' align='left' colspan='100' style='border-top:1px solid;text-align:center'><b>13 Registros encontrados!</b></td>
+					</tr>	    
+	    
+	   </tbody>
+	   
+	   <tfoot>
+	      <tr>
+	      	<td colspan="100">
+				<table width="100%" cellpadding="0" cellspacing="0" style="padding-top:10px;">
+					<tr> 
+						<td class="tdFoot" colspan="3" align="left">Emissão: 06/08/2018 - 20:10:45</td>
+						<td class="tdFoot" colspan="3" align="right">Departamento de Tecnologia da Informação - EAD</td>
+					</tr>
+	      		</table>
+	      	</td>
+	      </tr>
+	   </tfoot>	
+	   
+	   
+  </table>
+	
+</div> 
+</body>
+</html>

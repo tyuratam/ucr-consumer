@@ -1,5 +1,8 @@
 {
-  "presets": ["env"],
+  "presets": [
+    "env",
+    "@babel/preset-flow"
+  ],
   "plugins": [
     [
       "babel-plugin-dotenv", {
