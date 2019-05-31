@@ -4,6 +4,7 @@ import path from 'path';
 import { Sequelize } from 'sequelize';
 
 import { logger } from './logger';
+import { PATHS } from '../constants';
 
 const sequelizeLog = process.env.SEQUELIZE_LOG;
 // eslint-disable-next-line no-console
@@ -68,9 +69,8 @@ export const createModels = (modelsDir, sequelize) => {
 };
 
 export const initDatabase = () => {
-  const modelsDir = path.normalize(`${__dirname}/../models`);
   const sequelize = configDataBase(sequelizeConfig);
-  const models = createModels(modelsDir, sequelize);
+  const models = createModels(PATHS.MODELS, sequelize);
 
   logger.running('Syncing database models...');
   createDatabase();
