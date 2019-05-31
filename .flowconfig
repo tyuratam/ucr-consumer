@@ -1,15 +1,12 @@
 [ignore]
-  .*/node_modules/.*
+.*/node_modules/*
+
 [include]
-  [libs]
-flow-typed
+
+[libs]
 [options]
-esproposal.optional_chaining=enable
-esproposal.nullish_coalescing=enable
 munge_underscores=true
 
 suppress_type=$FlowIssue
 suppress_type=$FlowFixMe
 suppress_type=$FixMe
-all=true
-

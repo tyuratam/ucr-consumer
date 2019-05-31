@@ -1,7 +1,6 @@
 {
   "presets": [
-    "env",
-    "@babel/preset-flow"
+    "env"
   ],
   "plugins": [
     [
