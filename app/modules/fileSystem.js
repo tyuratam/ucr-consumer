@@ -1,4 +1,9 @@
 import fs from 'fs';
+import path from 'path';
+import XLSX from 'xlsx';
+import util from 'util';
+
+import { PATHS } from '../constants';
 import { logger } from './logger';
 
 export const getFilesList = (directory) => fs
@@ -17,3 +22,12 @@ export const checkFilesPrefix = (requiredFiles, filesList = []) => {
   logger.success('checkFilesPrefix: Success: All required files exists!');
   return matchedFiles;
 };
+
+export const readSpreadSheets = (filename) => {
+  let buf = fs.readFileSync(path.resolve(PATHS.UPLOADS, filename));
+  let wb = XLSX.read(buf, { type:'buffer' });
+
+  console.log(util.inspect(buf, false, null, true));
+};
+
+

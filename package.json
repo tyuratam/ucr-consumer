@@ -6,7 +6,6 @@
   "scripts": {
     "babel": "babel-node app/server.js",
     "create-database": "babel-node app/bin/initDataBase.js",
-    "docs": "node tools docs",
     "forever": "forever --watch app/server.js",
     "lint": "eslint",
     "precommit": "npm run lint && npm run test",
@@ -107,7 +106,6 @@
   },
   "husky": {
     "hooks": {
-      "post-merge": "node tools update && npm install",
       "pre-commit": "npm run precommit"
     }
   }
