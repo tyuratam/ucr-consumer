@@ -15,3 +15,18 @@
   ```
   yarn create-database ou npm run create-database
   ```
+
+## Ordem de importação dos dados
+- Termos
+- Taxonomias
+- Cursos
+- Concursos
+- Polos
+- Enderecos
+- Colaboradores
+- Pessoas
+- Acompanhamentos
+- Alunos
+- Atividades
+- Pagamentos
+- Histórico
