@@ -38,7 +38,7 @@ export const createDatabase = () => {
   sqlConection.query(`CREATE DATABASE IF NOT EXISTS ${process.env.DB_DATABASE};`, (err, results) => {
     if (err) {
       logger.error(err);
-      return process.exit(0);
+      return process.exit(1);
     }
 
     logger.idle('createDatabase: Connecting to the database...');
@@ -83,5 +83,6 @@ export const initDatabase = () => {
     })
     .catch(err => {
       logger.running(err);
+      process.exit(1);
     });
 };
