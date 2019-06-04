@@ -19,7 +19,7 @@ export default (sequelize, DataTypes) => {
     data_vestibular: DataTypes.DATE,
 
     data_retorno: DataTypes.DATE,
-    horario_retorno: DataTypes.DATE,
+    horario_retorno: DataTypes.TIME,
     dias_sem_contato: DataTypes.INTEGER,
     ultimo_contato: DataTypes.DATE,
     observacoes: DataTypes.STRING,

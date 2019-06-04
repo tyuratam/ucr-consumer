@@ -7,7 +7,7 @@ export default (sequelize, DataTypes) => {
     },
     codigo: DataTypes.STRING,
     semestre: DataTypes.INTEGER,
-    ano: DataTypes.DATEONLY,
+    ano: DataTypes.INTEGER,
   });
 
   contests.associate = (models) => {
