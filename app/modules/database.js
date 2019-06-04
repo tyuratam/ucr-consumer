@@ -27,21 +27,21 @@ export const configDataBase = (config) => new Sequelize(
 );
 
 export const createDatabase = () => {
-  logger.running('Connecting to the database...');
+  logger.running('createDatabase: Connecting to the database...');
 
   const sqlConection = mysql.createConnection({
     user: process.env.DB_USER,
     password: process.env.DB_PASS,
   });
 
-  logger.running('Creating Database...');
+  logger.running('createDatabase: Creating Database...');
   sqlConection.query(`CREATE DATABASE IF NOT EXISTS ${process.env.DB_DATABASE};`, (err, results) => {
     if (err) {
       logger.error(err);
       return process.exit(0);
     }
 
-    logger.idle('Connecting to the database...');
+    logger.idle('createDatabase: Connecting to the database...');
     return logger.success(results);
   });
 };
@@ -72,13 +72,13 @@ export const initDatabase = () => {
   const sequelize = configDataBase(sequelizeConfig);
   const models = createModels(PATHS.MODELS, sequelize);
 
-  logger.running('Syncing database models...');
+  logger.running('initDatabase: Syncing database models...');
   createDatabase();
   models
     .sequelize
     .sync()
     .then(() => {
-      logger.success('Models has been successfully synced');
+      logger.success('initDatabase: Models has been successfully synced');
       process.exit(0);
     })
     .catch(err => {

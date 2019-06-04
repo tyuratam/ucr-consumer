@@ -1,6 +1,8 @@
 {
   "extends": [
-    "airbnb"
+    "airbnb",
+    "plugin:jest/recommended",
+    "prettier"
   ],
   "parser": "babel-eslint",
   "env": {
@@ -10,13 +12,8 @@
   },
   "plugins": [
     "babel",
-    "flowtype"
+    "jest"
   ],
-  "settings": {
-    "flowtype": {
-      "onlyFilesWithFlowAnnotation": true
-    }
-  },
   "rules": {
     "arrow-body-style": ["warn", "as-needed"],
     "arrow-parens": "off",
@@ -108,9 +105,6 @@
         "requireReturnDescription": false
       }
     ],
-    "flowtype/require-parameter-type": ["warn", { "excludeArrowFunctions": true }],
-    "flowtype/require-return-type": ["warn", "always", { "excludeArrowFunctions": true }],
-    "flowtype/space-after-type-colon": ["error", "always"],
     "import/export": "off",
     "import/no-cycle": "error",
     "import/no-dynamic-require": "off",
