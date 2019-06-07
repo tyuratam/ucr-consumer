@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import XLSX from 'xlsx';
+import xlsx from 'node-xlsx';
 import util from 'util';
 
 import { PATHS } from '../constants';
@@ -24,10 +24,10 @@ export const checkFilesPrefix = (requiredFiles, filesList = []) => {
 };
 
 export const readSpreadSheets = (filename) => {
-  let buf = fs.readFileSync(path.resolve(PATHS.UPLOADS, filename));
-  let wb = XLSX.read(buf, { type:'buffer' });
-
-  console.log(util.inspect(buf, false, null, true));
+  const test = xlsx.parse(path.resolve(PATHS.UPLOADS, filename));
+  fs.writeFileSync(`${PATHS.UPLOADS}/${filename}.json`, JSON.stringify(test));
+  // eslint-disable-next-line no-console
+  console.log(util.inspect(test, false, null, true));
 };
 
 

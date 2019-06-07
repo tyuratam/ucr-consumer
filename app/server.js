@@ -5,4 +5,4 @@ const filesList = getFilesList(PATHS.UPLOADS);
 
 checkFilesPrefix(REQUIRED_FILES, filesList);
 
-readSpreadSheets(filesList[1]);
+readSpreadSheets(filesList[0]);
